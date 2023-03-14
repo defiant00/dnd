@@ -35,6 +35,23 @@
   * possibly where Neon showed up
   * good place for an eventual showdown
 * Duskspire
+  * midsized city, butting against a mountain and surrounded by forest
+  * large ornate stone building carved into the mountain
+    * Arcana Illuminata - to shed light onto the arcane
+      * largest arcane magic school
+      * has a higher than average mix of races
+      * built into the mountain with dwarvish help
+      * there's a lot more to it dug into the mountain and down
+        * vaults for rare books and dangerous magical items
+  * started as a place to study the intersection of energies at its location
+  * when the local monarch recognized the value is when they decided to construct the school itself
+    * saw it as reflecting well on his domain
+    * considered having the best most knowledgable magic users a real strength
+    * with the direct patronage from the ruler, it also became more directly beholden to him as well
+    * gained a more pronounced guard presence, both for security and somewhat of an arcane taskforce
+    * they now monitor the realm, reporting back and then working with local towns if a threat is suspected
+    * they are also rumored to have a heavily fortified magical dungeon
+* ?
   * named optimistically
   * founded by a rich family deep into the arts
   * famous music school
@@ -46,7 +63,7 @@
 
 ### Players
 
-* Anno Leafwalker the halfling rogue
+* Anno Quickdream the halfling rogue
 * Sylvester the tabaxi bard
   * flute = ocarina
   * need a few sibling names from their backstory
@@ -58,11 +75,34 @@
 
 ### NPCs
 
-* guard
-  * neutral good
-  * he doesn't like that they're locking up random travelers
+* starting town
+  * Floria the halfling mayor
+    * 3'5", in her 40s
+    * neutral good
+    * has the town's best interests at heart
+    * likes being self-sufficient
+  * Phil the human paladin guard
+    * 6'3", heavyset, mostly muscle, in his 50s
+    * neutral good
+    * a trusted lieutenant, would be captain of the guard but he'd rather not be in charge
+    * he doesn't like that they're locking up random travelers
+    * messenger from Duskspire alerting them of increased magical strangeness
+
+## Plot Points
+
+* Duskspire is tracking odd, possibly demonic energy
 
 ## Names
 
-* Velnas
-  * The Velnas Wilds
+* People
+  * Friedbert "Fray"
+* Places
+  * Abbeasia
+  * Alerion
+  * Drakhan
+  * Emaes
+  * Eshtion
+  * Grommel
+  * Vaelesta
+  * Velnas
+    * The Velnas Wilds
