@@ -71,6 +71,7 @@
     * if they want to keep it hidden then have to occasionally do wisdom? throws vs others' perception checks
   * mini bag of holding
   * is own deity
+  * Meredith is the one who sent him on this quest. He doesn't like her.
 * ? the elven druid
 
 ### NPCs
@@ -79,12 +80,14 @@
   * Floria the halfling mayor
     * 3'5", in her 40s
     * neutral good
-    * has the town's best interests at heart
-    * likes being self-sufficient
+    * wants: the town's best interests, being self-sufficient
+    * fears: losing people's trust, her citizens getting hurt
   * Phil the human paladin guard
     * 6'3", heavyset, mostly muscle, in his 50s
     * neutral good
     * a trusted lieutenant, would be captain of the guard but he'd rather not be in charge
+    * wants: security the 'right' way, peace
+    * fears: that others have to go through combat like he has, that the ends justify the means, being in charge of people and them getting hurt
     * he doesn't like that they're locking up random travelers
     * messenger from Duskspire alerting them of increased magical strangeness
 
