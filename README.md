@@ -23,11 +23,23 @@
       * everyone thrown together in the barn, arms tied with rope
       * have some time to talk
       * after introductions, a commotion occurs outside
+        * goblins raiding, roll stealth occasionally to determine if they're seen
       * get out
         * possibly talk your way out since clearly you aren't the ones attacking the town
         * alternately, guard will begin looking more concerned and eventually leave
         * everyone still has their equipment because they don't usually have prisoners
         * it's a barn, you could probably break things
+      * asked to help by Floria, offered a gold each if in good standing
+      * track down goblins to a cave
+        * have a couple wolves as pets
+        * possible commotion from the prism stone burning one of them, so the guard goes in to check
+        * prism stone
+          * regular stone, looks rainbow-y and refracts light
+          * occasionally connects to random elemental planes, burning or leaking water, etc
+          * sometimes indistinct infernal? muttering
+            * vague hints of something possibly dangerous
+            * could be charged to take it to Duskspire by Floria
+          * was used by the goblins as a mystic way to answer questions
 * shard city
   * distortions and cracks in reality
   * is mostly abandoned
