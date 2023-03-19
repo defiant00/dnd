@@ -1,19 +1,22 @@
 # DnD Notes
 
-## Locations of [world]
+## Locations of Eldorin
 
-* starting town
+### The Continent of Vaelesta
+
+* Brookhaven
+  * small town, primarily farming and starting to diversify into crafting
   * dungeon (a repurposed barn)
     * characters
       * players
-        * Anno - ?
+        * Anno - Was exploring the town in a suspicious way (and obvious weapons)
+          * bad timing since they had just been warned by Duskspire
         * Sylvester - was detected as a demonic entity
-          * blame it on the shard city with all its weird energy
-        * ? (Eva) - was at her usual lookout spot near a town
+        * Reyna - was at her usual lookout spot near a town
           * people had occasionally noticed her
           * gets surrounded, they try and sleep her but it doesn't work, so instead cram her into a sack
       * npcs
-        * guard
+        * Rowan
           * they've been hunting some sort of demonic entity
             * probably very dangerous, but currently away
             * may confront later
@@ -40,8 +43,9 @@
             * vague hints of something possibly dangerous
             * could be charged to take it to Duskspire by Floria
           * was used by the goblins as a mystic way to answer questions
-* shard city
+* Talsworth
   * distortions and cracks in reality
+    * The Shattering - 7-8 years ago
   * is mostly abandoned
   * some views into the past, some to other planes
   * possibly where Neon showed up
@@ -63,7 +67,7 @@
     * gained a more pronounced guard presence, both for security and somewhat of an arcane taskforce
     * they now monitor the realm, reporting back and then working with local towns if a threat is suspected
     * they are also rumored to have a heavily fortified magical dungeon
-* ?
+* Archdale
   * named optimistically
   * founded by a rich family deep into the arts
   * famous music school
@@ -76,6 +80,11 @@
 ### Players
 
 * Anno Quickdream the halfling rogue
+  * basically Robin Hood
+  * never knew their parents
+  * lived with a friend
+    * got caught stealing and the parents took the blame and were taken away
+    * was teaching the friend how to be a rogue as well
 * Sylvester the tabaxi bard
   * flute = ocarina
   * need a few sibling names from their backstory
@@ -84,17 +93,23 @@
   * mini bag of holding
   * is own deity
   * Meredith is the one who sent him on this quest. He doesn't like her.
-* ? the elven druid
+* Reyna the elven druid
+  * Abandoned? at a young age
+  * Told to keep her heritage a secret
+  * Vaguely remembers a location, not sure if if was her home or some dream/vision she had
+  * Raised by a gnome druid who then passed away
+    * Highly attached to the forest where she was raised
+  * Likes to people watch, but not great socially
 
 ### NPCs
 
-* starting town
+* Brookhaven
   * Floria the halfling mayor
     * 3'5", in her 40s
     * neutral good
     * wants: the town's best interests, being self-sufficient
     * fears: losing people's trust, her citizens getting hurt
-  * Phil the human paladin guard
+  * Rowan the human paladin guard
     * 6'3", heavyset, mostly muscle, in his 50s
     * neutral good
     * a trusted lieutenant, would be captain of the guard but he'd rather not be in charge
@@ -102,6 +117,35 @@
     * fears: that others have to go through combat like he has, that the ends justify the means, being in charge of people and them getting hurt
     * he doesn't like that they're locking up random travelers
     * messenger from Duskspire alerting them of increased magical strangeness
+  * Elluin the human ranger and captain of the guard
+    * long hair + armor makes it hard to tell if he's elven
+      * firmly convinced elves are superior, and that we could all do to follow how they live
+      * he changed his name on his own to sound elven, but is convinced that the group he spent time with would have approved
+    * lawful neutral
+    * thinks it's his moral obligation to bring proper order to the town, and that having spent time with elves makes him right and proper
+    * wants: to bring proper order, to assert his superiority
+    * fears: that others won't realize that he is right
+  * Hathaway and Marrin Cloudwillow, the halfling shopkeepers
+    * wives who run the Cloudwillow general store
+    * the last name is a combination of both of theirs
+      * they have a store logo in the shape of a stylized tree with a cloud instead of leaves
+    * they occasionally go foraging together, closing the shop for a few days
+    * Hathaway the halfling shopkeeper
+      * cheerful, short (2'7"), plump, early 40s
+      * dresses in very flashy colors
+      * runs the front of the store most of the time
+      * always sees the best in people
+      * lawful good
+      * wants: to be able to expand, to make enough to be able to travel together
+      * fears: any harm to Marrin, anything happening to any villagers, being disliked
+    * Marrin the halfling artist
+      * cheerful, taller (3'), normal build, late 30s
+      * designs most of the clothing
+      * paints and sketches for personal enjoyment and to share with Hathaway, not usually others
+      * neutral good
+        * a bit more cynical from how Elluin acts
+      * wants: spending time with Hathaway, quiet, ability to travel and see some of the landscapes and to draw her own take on them in her travel sketchbook
+      * fears: that she isn't contributing enough, that she doesn't deserve Hathaway
 
 ## Plot Points
 
@@ -117,7 +161,9 @@
   * Drakhan
   * Emaes
   * Eshtion
+  * Grayhelm
   * Grommel
-  * Vaelesta
+  * Herst
+  * Perlington
   * Velnas
     * The Velnas Wilds
