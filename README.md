@@ -130,6 +130,7 @@
     * the last name is a combination of both of theirs
       * they have a store logo in the shape of a stylized tree with a cloud instead of leaves
     * they occasionally go foraging together, closing the shop for a few days
+    * Have a job board inside the shop
     * Hathaway the halfling shopkeeper
       * cheerful, short (2'7"), plump, early 40s
       * dresses in very flashy colors
@@ -167,3 +168,11 @@
   * Perlington
   * Velnas
     * The Velnas Wilds
+
+## Sessions
+
+* first
+  * players woke up in a barn with their hands tied, Anno woke up first
+  * Rowan was guarding the door
+  * some goblins caused a commotion outside, so Rowan left without locking the door
+  * Sylvester immediately snuck out, Anno followed, and Reyna waited for Rowan to come back
