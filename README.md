@@ -15,34 +15,13 @@
         * Reyna - was at her usual lookout spot near a town
           * people had occasionally noticed her
           * gets surrounded, they try and sleep her but it doesn't work, so instead cram her into a sack
-      * npcs
-        * Rowan
-          * they've been hunting some sort of demonic entity
-            * probably very dangerous, but currently away
-            * may confront later
-          * he doesn't like that they're locking up random travelers
-    * events
-      * all players roll a constitution saving throw, highest wakes up first
-      * everyone thrown together in the barn, arms tied with rope
-      * have some time to talk
-      * after introductions, a commotion occurs outside
-        * goblins raiding, roll stealth occasionally to determine if they're seen
-      * get out
-        * possibly talk your way out since clearly you aren't the ones attacking the town
-        * alternately, guard will begin looking more concerned and eventually leave
-        * everyone still has their equipment because they don't usually have prisoners
-        * it's a barn, you could probably break things
-      * asked to help by Floria, offered a gold each if in good standing
-      * track down goblins to a cave
-        * have a couple wolves as pets
-        * possible commotion from the prism stone burning one of them, so the guard goes in to check
-        * prism stone
-          * regular stone, looks rainbow-y and refracts light
-          * occasionally connects to random elemental planes, burning or leaking water, etc
-          * sometimes indistinct infernal? muttering
-            * vague hints of something possibly dangerous
-            * could be charged to take it to Duskspire by Floria
-          * was used by the goblins as a mystic way to answer questions
+  * prism stone
+    * regular stone, looks rainbow-y and refracts light
+    * occasionally connects to random elemental planes, burning or leaking water, etc
+    * sometimes indistinct infernal? muttering
+      * vague hints of something possibly dangerous
+      * could be charged to take it to Duskspire by Floria
+    * was used by the jackalwere as a mystic way to answer questions
 * Talsworth
   * distortions and cracks in reality
     * The Shattering - 7-8 years ago
@@ -52,6 +31,11 @@
   * good place for an eventual showdown
 * Duskspire
   * midsized city, butting against a mountain and surrounded by forest
+  * outer wall is wood, and open to everyone, with shops and some houses
+  * inner wall is stone, with a small moat outside of it
+  * significant thieves' guild, sprung up to help acquire materials
+    * main guild hall is in the outer city
+    * there's a nice store that they run in the inner city
   * large ornate stone building carved into the mountain
     * Arcana Illuminata - to shed light onto the arcane
       * largest arcane magic school
@@ -147,6 +131,47 @@
         * a bit more cynical from how Elluin acts
       * wants: spending time with Hathaway, quiet, ability to travel and see some of the landscapes and to draw her own take on them in her travel sketchbook
       * fears: that she isn't contributing enough, that she doesn't deserve Hathaway
+  * Arthur the human sailor/pirate?
+    * charismatic, 5'8", normal build, late 20s
+    * runs The Soggy Bottom, a tavern with a small inn on the 2nd floor
+    * has a large shark's head mounted on the wall
+    * keeps a pirate's hat behind the bar
+    * no one's entirely sure if he actually was a pirate
+    * chaotic good
+    * wants: to flirt, news from outside, gossip in general, mementos of the sea
+    * fears: his past catching up to him, ruining his good life here
+
+## To Do
+
+* Rowan should bring the jackalwere back
+* Floria will cover their room and board for the day
+  * a messenger from Duskspire will be back in a few days
+* 20g each for getting the livestock back
+* Elluin should be meeting with Floria when they get back
+* Rowan just goes in instead of knocking
+* Elluin is very standoffish to Rowan, who doesn't really care
+* if they go to the tavern, Rowan will join them after changing out of his full armor
+
+* Rowan can suggest that the party can help him patrol the forest
+  * he's been meaning to do so for a while, but can't due to a lack of manpower
+* job board
+  * someone needs wolf pelts
+    * if they take this one on, the boar at the river has been eaten and one of the wolves has been dragged off
+      * dragged off by a bear (or two?) at a cave or similar
+      * a wolf should come to help them
+      * maybe possibly a wolf friend
+  * farmers need help clearing the land for a new field
+    * they're nervous with what's been going on recently
+    * can help out with the actual farming
+    * also there to guard
+      * attacked by a roving goblin band, possibly including a worg or rider
+  * someone wants to learn how to play music
+  * someone wants their fields to be checked for curses?
+    * probably a natural cause to their low crop yield
+  * someone is missing a donkey
+    * this is more of an investigation
+    * was just cut free as part of the recent goblin thing
+    * wandered off into the woods and got caught up in a hunting snare
 
 ## Plot Points
 
@@ -176,3 +201,16 @@
   * Rowan was guarding the door
   * some goblins caused a commotion outside, so Rowan left without locking the door
   * Sylvester immediately snuck out, Anno followed, and Reyna waited for Rowan to come back
+  * they all went and met Floria, who gave them 2g as an apology and asked them to help retrieve their livestock from the goblins
+  * went with Rowan and tracked the goblins out of town
+  * fought a goblin and his wolf
+    * rescued a horse
+  * encountered two wolves chasing a boar
+    * fought all 3, midway through 2 goblins joined in
+    * after the fight Sylvester got some boar meat
+  * found a cave guarded by a goblin and wolf, fought them while mostly staying out of sight
+  * old man came out of the cave and asked for food - Sylvester gave him some boar meat
+  * Reyna gave him a piggyback ride to bring him back to town and he turned into a Jackalwere, biting Reyna and knocking her unconscious
+  * Anno took out the Jackalwere and Rowan healed Reyna
+  * Looted the cave, finding 150g, a few gems, 3 goats, and a box
+  * Reyna set the box on the ground and cast Detect Magic
