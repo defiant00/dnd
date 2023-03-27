@@ -84,6 +84,8 @@
   * Raised by a gnome druid who then passed away
     * Highly attached to the forest where she was raised
   * Likes to people watch, but not great socially
+  * Only knows broken elvish
+  * her name is an elven child's name, may come up when interacting with other elves
 
 ### NPCs
 
@@ -127,6 +129,7 @@
       * cheerful, taller (3'), normal build, late 30s
       * designs most of the clothing
       * paints and sketches for personal enjoyment and to share with Hathaway, not usually others
+      * knits small figures as well
       * neutral good
         * a bit more cynical from how Elluin acts
       * wants: spending time with Hathaway, quiet, ability to travel and see some of the landscapes and to draw her own take on them in her travel sketchbook
