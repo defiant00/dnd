@@ -143,17 +143,55 @@
     * chaotic good
     * wants: to flirt, news from outside, gossip in general, mementos of the sea
     * fears: his past catching up to him, ruining his good life here
+  * Averitt the human blacksmith in training
+    * 5'6", normal build, late teens
+    * pretty plain looking, but overwhelming enthusiasm
+      * previous blacksmithing attempt was with a large river rock, which broke
+    * wants: to help out the village, to impress Derek
+    * fears: not much, he's an optimistic teen, but he doesn't want to "just" farm, and the recent attacks have made him a bit nervous
+* Duskspire
+  * Rommeas "Skysplitter" Oakenbeard the dwarven sorcerer
+    * 4'1", stocky, 300+
+    * good friends with Floria, calls her "Flori"
+    * white hair with blonde streaks, thinning on top, with an almost 3' beard in 8 braids with wooden rings at the end
+    * Oakenbeard was an insult since his arcane abilities were looked at negatively, but he has long since moved past that and accepted it
+      * "wood can be stronger, more flexible. where stone might shatter, wood holds and remains strong"
+    * makes regular trips to Talsworth
+    * has a large gnarled wooden staff almost as tall as he is
+    * neutral good
+    * wants: to help others, to eliminate prejudice (especially towards the arcane)
+    * fears: that he may be too dangerous, and that he might hurt others
 
 ## To Do
 
-* Rowan should bring the jackalwere back
-* Floria will cover their room and board for the day
-  * a messenger from Duskspire will be back in a few days
-* 20g each for getting the livestock back
-* Elluin should be meeting with Floria when they get back
-* Rowan just goes in instead of knocking
-* Elluin is very standoffish to Rowan, who doesn't really care
-* if they go to the tavern, Rowan will join them after changing out of his full armor
+* start off in the evening and visit the Soggy Bottom
+* next day
+  * Sylvester teaches the kids, performance check for pulling out the instrument
+    * performance check for a demo
+    * these determine how excited the kids then are, and possibly give advantage to the teaching attempt
+  * Anno, duck?
+    * a few like Arthur should know that some of the farmers have chickens and some have ducks
+    * should be a little gag of everyone directing him to someone else
+    * Glenn -> Ellie -> Brice -> Harold + Gertrude
+      * Harold: "Honey, do we have any ducks?"
+      * "What?"
+      * "Ducks!"
+      * "They're not ready yet, they're still just ducklings"
+  * Reyna?
+
+* if exploring the crops dying, going upstream finds a split, one way which eventually leads to a lake, and the other continues on as a river
+  * the river side eventually is about halfway blocked off with a large pile of animal corpses, broken logs, etc
+  * there is some sort of (not recently used) cave or other rough nest or living quarters
+  * getting rid of the corpses should help
+
+* Oakenbeard shows up with a couple others traveling with him
+  * Sylvester is immediately on edge, if insightful enough might realize that he completely sees through him but doesn't seem hostile
+* Elluin is trying to seem important and exaggerate his contributions by saying "we did this"
+  * does the whole "we found this" and has the jackalwere dumped out of a cart onto the ground
+* Oakenbeard is unimpressed
+* if checking out the prism stone, will take out his silver bell as he examines it
+  * any magical emission from the stone should cause a glow from the bell
+  * also a smaller reaction from the stakes that both helpers are carrying
 
 * Rowan can suggest that the party can help him patrol the forest
   * he's been meaning to do so for a while, but can't due to a lack of manpower
@@ -175,10 +213,20 @@
     * this is more of an investigation
     * was just cut free as part of the recent goblin thing
     * wandered off into the woods and got caught up in a hunting snare
+  * Averitt wants an anvil (or something functionally equivalent)
+    * doesn't have money, but can fix and make simple things in trade
+    * is apologetic and downplays his skills, but has a few things he made with the rock that're actually pretty good
 
 ## Plot Points
 
 * Duskspire is tracking odd, possibly demonic energy
+* Duskspire regularly checks back on Talsworth and marks the new boundaries
+  * Typically sends Oakenbeard
+  * they have large stakes topped with pale blue crystals that glow when rift energy is present
+  * check up on the town every few months? and mark the new boundaries
+    * so there are stakes a good halfway into the town and then they stop
+    * the area affected is slowly growing
+  * the crystals react to rift energy, glowing and possibly even sparking or shattering if it's too great
 
 ## Names
 
@@ -199,7 +247,7 @@
 
 ## Sessions
 
-* first
+* 1
   * players woke up in a barn with their hands tied, Anno woke up first
   * Rowan was guarding the door
   * some goblins caused a commotion outside, so Rowan left without locking the door
@@ -217,3 +265,25 @@
   * Anno took out the Jackalwere and Rowan healed Reyna
   * Looted the cave, finding 150g, a few gems, 3 goats, and a box
   * Reyna set the box on the ground and cast Detect Magic
+* 2
+  * opened the box and saw dirt with something in it inside
+  * went back to town without investigating further
+  * Rowan brought the Jackalwere back
+  * rescued a horse and 3 goats
+  * were given 20g each and set up at The Soggy Bottom for the night
+  * met Arthur who flirted with Sylvester
+  * Sylvester had him cook some of the boar meat for dinner
+    * also drank Arthur's shot of ale that he poured for himself
+  * the next day went shopping at Cloudwillow, buying 1g of provisions each and Reyna 1g of arrows
+  * investigated the job board
+  * Anno went investigating the woods, following the stream in search of a duck
+    * got one rough wolf pelt
+    * followed the drag marks and almost got attacked by a bear, but climbed a tree and hid
+  * Sylvester played some music in the square and took on the job to teach some kids music
+    * will be meeting in the morning at the square
+  * Reyna investigated a field that isn't growing well and recommended burning part of it and replanting
+    * also brought the box, thinking the dirt might be related to the soil being bad
+    * checked out the rock inside with Rowan there just in case
+    * saw it do fire, water, and wind, faint whispering, and being prismatic
+    * currently keeping ahold of the rock
+  * waiting for the messenger from Duskspire to show up in a couple days
