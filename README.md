@@ -157,10 +157,16 @@
     * Oakenbeard was an insult since his arcane abilities were looked at negatively, but he has long since moved past that and accepted it
       * "wood can be stronger, more flexible. where stone might shatter, wood holds and remains strong"
     * makes regular trips to Talsworth
-    * has a large gnarled wooden staff almost as tall as he is
+    * has a large gnarled wooden staff almost as tall as he is, topped with an onyx stone with the wood wrapped around it
     * neutral good
     * wants: to help others, to eliminate prejudice (especially towards the arcane)
     * fears: that he may be too dangerous, and that he might hurt others
+  * Matthew, the human wizard and Oakenbeard's scribe
+    * always at the ready with a small notebook and remarkable memory
+    * takes brief notes on his own about anything he deems noteworthy for Oakenbeard
+  * ?, the half-elf rogue and Oakenbeard's thieves' guild liason
+    * is formally employed by the Arcana Illuminata as an escort
+    * helps Oakenbeard by acquiring things for him, and coordinating with the thieves' guild
 
 ## To Do
 
@@ -186,12 +192,32 @@
 
 * Oakenbeard shows up with a couple others traveling with him
   * Sylvester is immediately on edge, if insightful enough might realize that he completely sees through him but doesn't seem hostile
+    * Sylvester should have all his hair stand on end, has to roll to see if he can approach
+    * if hidden, Oakenbeard should be, "Come on out, little one"
+      * should call Sylvester "little one" in general
+    * "and who are you, little one?"
+    * "and why are you here?"
+  * if anyone tries to investigate / detect magic, he humors them and gives them a couple seconds before canceling the spell
+    * a small smile, as if to say, "let's not be rude now"
 * Elluin is trying to seem important and exaggerate his contributions by saying "we did this"
   * does the whole "we found this" and has the jackalwere dumped out of a cart onto the ground
 * Oakenbeard is unimpressed
 * if checking out the prism stone, will take out his silver bell as he examines it
   * any magical emission from the stone should cause a glow from the bell
   * also a smaller reaction from the stakes that both helpers are carrying
+
+* there's a few instances of thieves' cant around town
+  * a couple with general directions of "seek the storehouse with a red roof"
+  * the storehouse should have a small "here"
+  * trapdoor into the basement
+    * locked (purposefully simple as a test)
+  * leads into a storage room, and what looks to be a new tunnel and the start of what will eventually be a meeting room
+    * some sort of simple nonlethal trap in the entrance of the storage room
+  * have a few items including Averitt's anvil down there, probably taken as an entrance test
+  * should be walked in on by Derek, who quickly realizes he's outclassed
+    * the anvil was taken by one of the other new members
+    * Derek wants to return it but doesn't know how without arousing suspicion, also he'd need help because it's heavy
+    * asks the party to help return it, and not mention his involvement
 
 * Rowan can suggest that the party can help him patrol the forest
   * he's been meaning to do so for a while, but can't due to a lack of manpower
