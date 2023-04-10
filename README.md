@@ -164,9 +164,13 @@
   * Matthew, the human wizard and Oakenbeard's scribe
     * always at the ready with a small notebook and remarkable memory
     * takes brief notes on his own about anything he deems noteworthy for Oakenbeard
-  * ?, the half-elf rogue and Oakenbeard's thieves' guild liason
+  * Germain, the half-elf rogue and Oakenbeard's thieves' guild liason
     * is formally employed by the Arcana Illuminata as an escort
     * helps Oakenbeard by acquiring things for him, and coordinating with the thieves' guild
+* Talsworth
+  * Ely'teria the couatl, overseer
+  * Lapis the pixie
+  * Nephtaluma "Nutmeg" the faerie dragon
 
 ## To Do
 
@@ -218,6 +222,25 @@
     * the anvil was taken by one of the other new members
     * Derek wants to return it but doesn't know how without arousing suspicion, also he'd need help because it's heavy
     * asks the party to help return it, and not mention his involvement
+  * Fletch is the organizer
+
+* Talsworth
+  * make the rounds and mark the latest area
+  * some of the markers are of different make, from the centaur herd
+  * Pixie and faerie dragon playing pranks on the party, but also showing where dangerous portals are
+    * throw small things at the party, and they can bounce off and disappear through a distortion
+    * see small paths of fairy dust appear and then poof in front of a distortion
+    * doors or windows slam to stop them from walking into one
+    * gusts of wind blowing debris around
+    * minor illusions
+      * Anno - duck(s) that then revert, folding themselves back into an egg
+      * Reyna - nature turning to dust, which takes the form of abominations
+      * Sylvester - nothingness, with the sense of faraway beings of great power
+  * portals - have to make a saving throw to not stumble and fall and/or freak out and run?
+    * elemental - sensations but no damage, disorientating
+    * shadow - emptiness with far off obelisks trailing shadow
+    * chaos - incomprehensible kaleidiscope for the senses, perception/insight? to see if you notice something powerful noticing you
+  * after a bit of investigation and combat? a large distortion should temporarily claim Oakenbeard
 
 * Rowan can suggest that the party can help him patrol the forest
   * he's been meaning to do so for a while, but can't due to a lack of manpower
@@ -257,6 +280,7 @@
 ## Names
 
 * People
+  * Chert
   * Friedbert "Fray"
 * Places
   * Abbeasia
