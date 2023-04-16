@@ -57,6 +57,16 @@
 
 * frog sanctuary
 * a temple that has a pet turtle
+* Cragsrest
+  * in a mountain range where a couple of the tops were destroyed and fell into the valleys long ago
+  * also other large chunks taken out of mountains, and other signs that something cataclysmic happened long ago
+  * no one seems to know for sure what happened here, but a number of religions claim that this was the result of their deity defeating some great evil
+  * there is a large dwarven city carved into the mountains here
+* a large elven city lost to time, no one knows what happened to it or its inhabitants
+  * all that remains are shadowy specters
+  * the shadows don't (initially at least) attack, but could possibly turn more corporeal and hostile
+  * the woods around the town are dark and overgrown and full of dark energy
+  * surrounded by blights
 
 # Characters
 
@@ -70,11 +80,11 @@
     * was teaching the friend how to be a rogue as well
 * Sylvester the tabaxi bard
   * flute = ocarina
-  * need a few sibling names from their backstory
   * upon gaining one of their special skills will have some sort of physical change
     * if they want to keep it hidden then have to occasionally do wisdom? throws vs others' perception checks
   * mini bag of holding
   * is own deity
+  * realm is called Threshot
   * Meredith is the one who sent him on this quest. He doesn't like her.
   * racial notes
     * are formed, not born
@@ -90,6 +100,7 @@
         * they felt that something was different and that it would usher in great change
         * Sylvester can tell from his life force that friend still lives, but has no idea where or how they are
         * he was never given a proper explanation, as Meredith felt no need to answer to him
+    * form reacts to planar energy, eg, fire plane causes him to become a shaggier dark red, water would be finer fur with a slight blue tint and sheen, etc
 * Reyna the elven druid
   * Abandoned? at a young age
   * Told to keep her heritage a secret
@@ -160,21 +171,37 @@
 * Averitt the human blacksmith in training
   * 5'6", normal build, late teens
   * pretty plain looking, but overwhelming enthusiasm
-    * previous blacksmithing attempt was with a large river rock, which broke
+  * started trying to learn blacksmithing with a large river rock which broke
+    * had gotten ahold of an old anvil, but was then stolen, so he put up a job to get it back
   * wants: to help out the village, to impress Derek
   * fears: not much, he's an optimistic teen, but he doesn't want to "just" farm, and the recent attacks have made him a bit nervous
+* Derek the human farmer, thief in training
+  * 5'4", normal build, probably still growing, late teens
+  * was having fun practicing minor thievery around town, had mentioned Averitt getting his anvil, so another member stole it
+    * feels quite bad about it, as he feels like it's his fault
+  * best friends with Averitt, not entirely sure if more but he's been noticing a few hints
+  * wants: to make more of himself, to go on adventures
+  * fears: disappointing his family, hurting his friends
+* Fletch the halfling thief
+  * 3'5", normal build, mid-20s
+  * trying to set up a thieve's guild in Brookhaven
+  * attempted charisma, and expects to be listened to like some sort of gang leader
 
 ### Duskspire NPCs
 
 * Rommeas "Skysplitter" Oakenbeard the dwarven sorcerer
   * 4'1", stocky, 300+
   * good friends with Floria, calls her "Flori"
+  * sees through Sylvester, calls him "little one"
   * white hair with blonde streaks, thinning on top, with an almost 3' beard in 8 braids with wooden rings at the end
   * Oakenbeard was an insult since his arcane abilities were looked at negatively, but he has long since moved past that and accepted it
     * "wood can be stronger, more flexible. where stone might shatter, wood holds and remains strong"
   * makes regular trips to Talsworth
   * has a large gnarled wooden staff almost as tall as he is, topped with an onyx stone with the wood wrapped around it
   * neutral good
+  * skills
+    * refraction - all attacks against the party have disadvantage
+    * fall - 10' radius gravity pillar, constitution save for half damage
   * wants: to help others, to eliminate prejudice (especially towards the arcane)
   * fears: that he may be too dangerous, and that he might hurt others
 * Matthew, the human wizard and Oakenbeard's scribe
@@ -189,66 +216,52 @@
 ### Talsworth NPCs
 
 * Eyl'teria the couatl, overseer
+  * psychicly talks in a chorus
 * Lapis the pixie
 * Nephtaluma "Nutmeg" the faerie dragon
 
 # To Do
 
-* start off in the evening and visit the Soggy Bottom
-* next day
-  * Sylvester teaches the kids, performance check for pulling out the instrument
-    * performance check for a demo
-    * these determine how excited the kids then are, and possibly give advantage to the teaching attempt
-  * Anno, duck?
-    * a few like Arthur should know that some of the farmers have chickens and some have ducks
-    * should be a little gag of everyone directing him to someone else
-    * Glenn -> Ellie -> Brice -> Harold + Gertrude
-      * Harold: "Honey, do we have any ducks?"
-      * "What?"
-      * "Ducks!"
-      * "They're not ready yet, they're still just ducklings"
-  * Reyna?
+* for the current battle, after the first is finished, Germain should distract the 3rd then jump out of the way so Oakenbeard can "fall" him (which splits the sky)
+
+* Anno asked the leatherworker to make them something from the bear skin. Will take a few days between other jobs, and can then be picked up and taken to Averitt's.
+* Averitt will have his anvil back (and is excited), and will be happy to practice for a reduced fee (or probably free if it's mentioned that they got the anvil back).
+  * Will take a few more days to attach metal bands to it.
+  * Is eventually an AC + 1 bracer.
 
 * if exploring the crops dying, going upstream finds a split, one way which eventually leads to a lake, and the other continues on as a river
   * the river side eventually is about halfway blocked off with a large pile of animal corpses, broken logs, etc
-  * there is some sort of (not recently used) cave or other rough nest or living quarters
+  * lots of spider webs and such, also wrapped around the debris in the river
   * getting rid of the corpses should help
+  * a swarm of Ettercaps are responsible
 
-* Oakenbeard shows up with a couple others traveling with him
-  * Sylvester is immediately on edge, if insightful enough might realize that he completely sees through him but doesn't seem hostile
-    * Sylvester should have all his hair stand on end, has to roll to see if he can approach
-    * if hidden, Oakenbeard should be, "Come on out, little one"
-      * should call Sylvester "little one" in general
-    * "and who are you, little one?"
-    * "and why are you here?"
-  * if anyone tries to investigate / detect magic, he humors them and gives them a couple seconds before canceling the spell
-    * a small smile, as if to say, "let's not be rude now"
-* Elluin is trying to seem important and exaggerate his contributions by saying "we did this"
-  * does the whole "we found this" and has the jackalwere dumped out of a cart onto the ground
-* Oakenbeard is unimpressed
-* if checking out the prism stone, will take out his silver bell as he examines it
-  * any magical emission from the stone should cause a glow from the bell
-  * also a smaller reaction from the stakes that both helpers are carrying
-
-* there's a few instances of thieves' cant around town
-  * a couple with general directions of "seek the storehouse with a red roof"
-  * the storehouse should have a small "here"
-  * trapdoor into the basement
-    * locked (purposefully simple as a test)
-  * leads into a storage room, and what looks to be a new tunnel and the start of what will eventually be a meeting room
-    * some sort of simple nonlethal trap in the entrance of the storage room
-  * have a few items including Averitt's anvil down there, probably taken as an entrance test
-  * should be walked in on by Derek, who quickly realizes he's outclassed
-    * the anvil was taken by one of the other new members
-    * Derek wants to return it but doesn't know how without arousing suspicion, also he'd need help because it's heavy
-    * asks the party to help return it, and not mention his involvement
-  * Fletch is the organizer
+* Rowan can suggest that the party can help him patrol the forest
+  * he's been meaning to do so for a while, but can't due to a lack of manpower
+* job board
+  * someone needs wolf pelts
+  * farmers need help clearing the land for a new field
+    * they're nervous with what's been going on recently
+    * can help out with the actual farming
+    * also there to guard
+      * attacked by a roving goblin band, possibly including a worg or rider
+  * kids wants to learn how to play music
+  * Averitt has a general ad for his blacksmithing, more of an, "I'm learning, please bring me jobs"
 
 ## Talsworth To Do
 
+* the two doppelgangers are following the party, looking for opportunities to switch out with any of them
+
 * make the rounds and mark the latest area
-* some of the markers are of different make, from the centaur herd
-* Pixie and faerie dragon playing pranks on the party, but also showing where dangerous portals are
+* some of the markers are of different make, from the centaur herd (smoky red crystals instead of pale blue)
+* meet Eyl'teria
+  * first greets Oakenbeard as "Rommeas", acknowledges Matthew and Germain, then turns to the party
+  * she greets each of the party with, "And you...who are you?" or "What is your purpose?" along with a psychic whisper that only the member can hear
+    * Sylvester hears "aberration"
+    * Reyna hears "tainted one," and an overlapping whisper of "marked"
+      * if asked what they meant, only say, "that is a thread that is best left alone"
+    * Anno does not hear anything
+  * "The expansion continues. The rift grows more active by the day. Take care in your approach."
+* Lapis and Nutmeg playing pranks on the party, but also showing where dangerous portals are
   * throw small things at the party, and they can bounce off and disappear through a distortion
   * see small paths of fairy dust appear and then poof in front of a distortion
   * doors or windows slam to stop them from walking into one
@@ -262,42 +275,26 @@
   * shadow - emptiness with far off obelisks trailing shadow
   * chaos - incomprehensible kaleidiscope for the senses, perception/insight? to see if you notice something powerful noticing you
 * after a bit of investigation and combat? a large distortion should temporarily claim Oakenbeard
-
-* Rowan can suggest that the party can help him patrol the forest
-  * he's been meaning to do so for a while, but can't due to a lack of manpower
-* job board
-  * someone needs wolf pelts
-    * if they take this one on, the boar at the river has been eaten and one of the wolves has been dragged off
-      * dragged off by a bear (or two?) at a cave or similar
-      * a wolf should come to help them
-      * maybe possibly a wolf friend
-  * farmers need help clearing the land for a new field
-    * they're nervous with what's been going on recently
-    * can help out with the actual farming
-    * also there to guard
-      * attacked by a roving goblin band, possibly including a worg or rider
-  * someone wants to learn how to play music
-  * someone wants their fields to be checked for curses?
-    * probably a natural cause to their low crop yield
-  * someone is missing a donkey
-    * this is more of an investigation
-    * was just cut free as part of the recent goblin thing
-    * wandered off into the woods and got caught up in a hunting snare
-  * Averitt wants an anvil (or something functionally equivalent)
-    * doesn't have money, but can fix and make simple things in trade
-    * is apologetic and downplays his skills, but has a few things he made with the rock that're actually pretty good
+* doppelganger takes this opportunity after a minute or two to show up as Oakenbeard
+  * Germain and/or Matthew might notice it's not him and attack or restrain him
+  * alternately, replacing Oakenbeard would be a huge accomplishment
+* Oakenbeard is unlikely to return in the next few sessions
+* should probably get the party to come with them to Duskspire to figure out what to do next
 
 # Plot Points
 
+* met wolf while fighting bears in the jackalwere cave
 * Duskspire is tracking odd, possibly demonic energy
   * has been going on for about a year
 * Duskspire regularly checks back on Talsworth and marks the new boundaries
-  * Typically sends Oakenbeard
+  * typically sends Oakenbeard
   * they have large stakes topped with pale blue crystals that glow when rift energy is present
   * check up on the town every six months and mark the new boundaries
     * so there are stakes a good halfway into the town and then they stop
     * the area affected is slowly growing
   * the crystals react to rift energy, glowing and possibly even sparking or shattering if it's too great
+  * there are two main types of stakes, those Oakenbeard brings, and those from the centaur herd
+  * Eyl'teria oversees the area as well and is on good terms with Oakenbeard, calls him Rommeas
 
 # Names
 
@@ -394,3 +391,24 @@
 * Anno starts teaching Duck to ride on their shoulder
 * Reyna finds Oakenbeard and asks him to look at the blighted field
   * he says it's due to bad water, and that he will take care of it on his way back from Talsworth if it's still an issue
+* On their way through town they notice a small storage building with a red roof and thieves cant that says "here"
+  * gets Rowan and he agrees they can go in, so Anno picks the lock and they investigate
+  * finds a trap door, unlocks it, and they all go down the stairs into a hallway
+  * Sylvester bounds ahead and gets his paw stuck in a trap and is pulled into the middle of the room
+  * earthen room still being dug out
+    * sign across the way in thieves cant that says "welcome"
+    * table off to the side with a few small items and a lantern
+    * anvil next to it
+  * Derek comes down, nervous and shaking, and immediately gets entangled by Reyna and talked down
+    * admits he joined as a bit of fun but when he mentioned Averitt's anvil another member decided to steal it
+  * says Fletch is the leader setting this up
+
+## Session 5
+
+* party leaves with Oakenbeard for Talsworth
+* first day is uneventful as they get some backstory from Matthew
+* when settling in for the night they hear a cry for help and encounter two doppelgangers
+  * Reyna immediately entangles them and Germain puts a knife to one's throat
+  * they lie badly and are seen through, but then let go as they break out of the vines
+  * Sylvester attempts to pursue (and sees what they are briefly) but they get away
+* next afternoon they get attacked by three displacer beasts
