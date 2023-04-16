@@ -219,6 +219,7 @@
   * psychicly talks in a chorus
 * Lapis the pixie
 * Nephtaluma "Nutmeg" the faerie dragon
+  * yellow green
 
 # To Do
 
@@ -253,6 +254,10 @@
 
 * make the rounds and mark the latest area
 * some of the markers are of different make, from the centaur herd (smoky red crystals instead of pale blue)
+* encounters
+  * outside - elemental wolves
+  * inside - animated armor + 2 flying swords
+  * inside - Spectator + 2 Shadows
 * meet Eyl'teria
   * first greets Oakenbeard as "Rommeas", acknowledges Matthew and Germain, then turns to the party
   * she greets each of the party with, "And you...who are you?" or "What is your purpose?" along with a psychic whisper that only the member can hear
@@ -266,19 +271,26 @@
   * see small paths of fairy dust appear and then poof in front of a distortion
   * doors or windows slam to stop them from walking into one
   * gusts of wind blowing debris around
+  * sounds of feet skittering, small reaction noises (giggles, gasps, sighs)
   * minor illusions
+    * treasure, food
+    * movement inside buildings
+    * visions of themselves
+    * larger enemies
     * Anno - duck(s) that then revert, folding themselves back into an egg
     * Reyna - nature turning to dust, which takes the form of abominations
     * Sylvester - nothingness, with the sense of faraway beings of great power
 * portals - have to make a saving throw to not stumble and fall and/or freak out and run?
+  * whispered voices
   * elemental - sensations but no damage, disorientating
   * shadow - emptiness with far off obelisks trailing shadow
   * chaos - incomprehensible kaleidiscope for the senses, perception/insight? to see if you notice something powerful noticing you
 * after a bit of investigation and combat? a large distortion should temporarily claim Oakenbeard
 * doppelganger takes this opportunity after a minute or two to show up as Oakenbeard
   * Germain and/or Matthew might notice it's not him and attack or restrain him
+    * or may notice and just keep an eye on him for the time being
   * alternately, replacing Oakenbeard would be a huge accomplishment
-* Oakenbeard is unlikely to return in the next few sessions
+* Oakenbeard is unlikely to return for a while
 * should probably get the party to come with them to Duskspire to figure out what to do next
 
 # Plot Points
