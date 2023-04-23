@@ -245,53 +245,48 @@
     * can help out with the actual farming
     * also there to guard
       * attacked by a roving goblin band, possibly including a worg or rider
-  * kids wants to learn how to play music
+  * kids want to learn how to play music and practice more with Sylvester
   * Averitt has a general ad for his blacksmithing, more of an, "I'm learning, please bring me jobs"
 
 ## Talsworth To Do
 
 * the two doppelgangers are following the party, looking for opportunities to switch out with any of them
 
-* make the rounds and mark the latest area
 * some of the markers are of different make, from the centaur herd (smoky red crystals instead of pale blue)
 * encounters
-  * outside - elemental wolves
-  * inside - animated armor + 2 flying swords
-  * inside - Spectator + 2 Shadows
-* meet Eyl'teria
-  * first greets Oakenbeard as "Rommeas", acknowledges Matthew and Germain, then turns to the party
-  * she greets each of the party with, "And you...who are you?" or "What is your purpose?" along with a psychic whisper that only the member can hear
-    * Sylvester hears "aberration"
-    * Reyna hears "tainted one," and an overlapping whisper of "marked"
-      * if asked what they meant, only say, "that is a thread that is best left alone"
-    * Anno does not hear anything
-  * "The expansion continues. The rift grows more active by the day. Take care in your approach."
-* Lapis and Nutmeg playing pranks on the party, but also showing where dangerous portals are
-  * throw small things at the party, and they can bounce off and disappear through a distortion
-  * see small paths of fairy dust appear and then poof in front of a distortion
-  * doors or windows slam to stop them from walking into one
-  * gusts of wind blowing debris around
-  * sounds of feet skittering, small reaction noises (giggles, gasps, sighs)
-  * minor illusions
-    * treasure, food
-    * movement inside buildings
-    * visions of themselves
-    * larger enemies
-    * Anno - duck(s) that then revert, folding themselves back into an egg
-    * Reyna - nature turning to dust, which takes the form of abominations
-    * Sylvester - nothingness, with the sense of faraway beings of great power
+  * elemental wolves
+  * animated armor + 2 flying swords
+  * Spectator + 2 Shadows
 * portals - have to make a saving throw to not stumble and fall and/or freak out and run?
   * whispered voices
   * elemental - sensations but no damage, disorientating
   * shadow - emptiness with far off obelisks trailing shadow
   * chaos - incomprehensible kaleidiscope for the senses, perception/insight? to see if you notice something powerful noticing you
-* after a bit of investigation and combat? a large distortion should temporarily claim Oakenbeard
-* doppelganger takes this opportunity after a minute or two to show up as Oakenbeard
-  * Germain and/or Matthew might notice it's not him and attack or restrain him
-    * or may notice and just keep an eye on him for the time being
-  * alternately, replacing Oakenbeard would be a huge accomplishment
+
+* start off with Oakenbeard and Matthew taking a short rest
+  * party can look around if they want
+    * be a good opportunity to fight one of the smaller encounters
+* when getting ready to leave, have to face the Spectator
+  * Spectators are typically summoned to guard something
+    * this one is there to guard the portal so that they can't renew the barrier
+      * don't know for who or what, but clearly something wants to get through
+  * Oakenbeard fire pinpoint beam spell against the Spectator
+  * it gets frustrated that nothing works on Oakenbeard and it uses telekinesis to throw a large piece of rubble
+  * Oakenbeard collides with the portal, the bubble bending around his coat, before he, along with the bubble and the light inside, vanish
+  * a second later, a pinprick of black light flares back into existence
+    * occasional will-o-wisps appear out of the portal but are not directly hostile
+* Matthew / Germain should get them to leave for now, Matthew doesn't have it in him to do another barrier today
+* get a decent ways away, and when settling in for the evening, doppelganger should show up as Oakenbeard
+* Germain and/or Matthew should be suspicious, but play along initially to get more info
+* doppelganger doesn't have Oakenbeard's presence if the party is perceptive enough
+* when they sleep Germain stays up to keep watch
+* Germain wakes up the party (quietly) late at night and tells them he's suspicious, and that he's going to test Oakenbeard, because Oakenbeard can't do healing magic
+  * this is a lie in case Oakenbeard or someone else is listening in, real Oakenbeard can heal decently
+* the next day after a bit of travel, Germain falls or something and has a gash that he asks Oakenbeard to heal, which the doppelganger will say that he cannot
+* as Germain and Matthew both confirm it isn't him, the second doppelganger might make an appearance as either of them
+
 * Oakenbeard is unlikely to return for a while
-* should probably get the party to come with them to Duskspire to figure out what to do next
+* Matthew and Germain are returning to Duskspire, the party is welcome to join them if they want
 
 # Plot Points
 
@@ -424,3 +419,21 @@
   * they lie badly and are seen through, but then let go as they break out of the vines
   * Sylvester attempts to pursue (and sees what they are briefly) but they get away
 * next afternoon they get attacked by three displacer beasts
+
+## Session 6
+
+* party helps with the fight and triumphs easily with Oakenbeard and Germain
+* spends a couple hours skinning and gathering items
+* gets to Talsworth
+* marks the new borders
+* meet Eyl'teria and get whispered at
+* go into Talsworth proper and run into a few rifts
+  * Sylvester goes through some temporary physical changes
+* pranks occur to attempt to warn them of rifts, but it doesn't help
+* after a few Oakenbeard goes, "knock it off you two"
+  * Lapis drops a twig on his head with a pout
+* introduced to Lapis and Nutmeg
+  * Lapis is riding on Germain's shoulder
+  * Nutmeg is following along bounding from roof to roof
+* go to the center of town where the bubbled rift is
+* Oakenbeard and Matthew strengthen the bubble
