@@ -250,40 +250,58 @@
 
 ## Talsworth To Do
 
+sylvester shield - after that battle you find yourself overly tired, and realize it's harder than it looks - you're welcome to keep it, but you don't think it's really worth it in battle
+
+about halfway to the campsite for the night, Lapis and Nutmeg leave and promise to keep an eye out for Oakenbeard
+on the second day, Germain takes Anno aside and pulls out a dagger from a dark red bag of holding
+  is a +1 dagger with "truth in shadow" in thieves cant small on the inside of the guard
+    is a recruitment offer from the Duskspire thieves' guild
+when fake Oakenbeard shows up
+  frayed clothes, dirt on him, singed a bit
+  Sylvester immediately notices that there isn't the usual aura around him
+  Matthew runs forward all excited but doesn't know what to do, realizing it would be weird to hug him
+  Germain walks up and clasps arms with him
+    "It's good to have you back"
+    "Aye"
+    Germain makes a little "stand down, not now" type of gesture
+  in conversation, Germain should be "that was quick"
+    oakenbeard, "Was it? That was about 3 days for me"
+
+sylvester leveling up
+  small wisps of darkness
+  extra tufts of fur starting to hint at the second set of ears
+  eyes with an actual bit of a glow
+
+doppelgangers should have some loot
+  oakenbeard
+    x rock bag
+    x a few uncut gems in a pouch - maybe a better potential focus for Reyna
+    x worthless staff
+    x healing potion
+  germain
+    x a couple daggers (at least one should be decent)
+    x leather armor and belt
+    x healing potion
+
+
+
 * the two doppelgangers are following the party, looking for opportunities to switch out with any of them
 
-* some of the markers are of different make, from the centaur herd (smoky red crystals instead of pale blue)
-* encounters
-  * elemental wolves
-  * animated armor + 2 flying swords
-  * Spectator + 2 Shadows
-* portals - have to make a saving throw to not stumble and fall and/or freak out and run?
-  * whispered voices
-  * elemental - sensations but no damage, disorientating
-  * shadow - emptiness with far off obelisks trailing shadow
-  * chaos - incomprehensible kaleidiscope for the senses, perception/insight? to see if you notice something powerful noticing you
-
-* start off with Oakenbeard and Matthew taking a short rest
-  * party can look around if they want
-    * be a good opportunity to fight one of the smaller encounters
-* when getting ready to leave, have to face the Spectator
-  * Spectators are typically summoned to guard something
-    * this one is there to guard the portal so that they can't renew the barrier
-      * don't know for who or what, but clearly something wants to get through
-  * Oakenbeard fire pinpoint beam spell against the Spectator
-  * it gets frustrated that nothing works on Oakenbeard and it uses telekinesis to throw a large piece of rubble
-  * Oakenbeard collides with the portal, the bubble bending around his coat, before he, along with the bubble and the light inside, vanish
-  * a second later, a pinprick of black light flares back into existence
-    * occasional will-o-wisps appear out of the portal but are not directly hostile
-* Matthew / Germain should get them to leave for now, Matthew doesn't have it in him to do another barrier today
 * get a decent ways away, and when settling in for the evening, doppelganger should show up as Oakenbeard
 * Germain and/or Matthew should be suspicious, but play along initially to get more info
 * doppelganger doesn't have Oakenbeard's presence if the party is perceptive enough
 * when they sleep Germain stays up to keep watch
-* Germain wakes up the party (quietly) late at night and tells them he's suspicious, and that he's going to test Oakenbeard, because Oakenbeard can't do healing magic
+* Matthew wakes up the party (quietly) late at night and tells them he's suspicious, and that he's going to test Oakenbeard, because Oakenbeard can't do healing magic
   * this is a lie in case Oakenbeard or someone else is listening in, real Oakenbeard can heal decently
-* the next day after a bit of travel, Germain falls or something and has a gash that he asks Oakenbeard to heal, which the doppelganger will say that he cannot
-* as Germain and Matthew both confirm it isn't him, the second doppelganger might make an appearance as either of them
+  * Matthew thinks this is true (he purposefully altered his own memory), Germain knows it's a lie
+  * this way mind readers wouldn't know the trick
+* the next day after a bit of travel, Matthew trips or something and has a gash that he asks Oakenbeard to heal, which the doppelganger will say that he cannot
+* Germain then immediately gets behind him and kills? him
+  * Matthew is shocked, then remembers over a few seconds as Germain tells him to focus
+  * as this is going on the second doppelganger might try and show up and be all, "that's not me" as Germain
+* after the battle Germain takes both of their heads
+  * Duskspire has bounties out on certain dangerous creatures
+    * Doppelganger - 1200g each
 
 * Oakenbeard is unlikely to return for a while
 * Matthew and Germain are returning to Duskspire, the party is welcome to join them if they want
@@ -302,6 +320,11 @@
   * the crystals react to rift energy, glowing and possibly even sparking or shattering if it's too great
   * there are two main types of stakes, those Oakenbeard brings, and those from the centaur herd
   * Eyl'teria oversees the area as well and is on good terms with Oakenbeard, calls him Rommeas
+* Who summoned the Spectator to prevent the rift from being barriered?
+
+* potentially long term Oakenbeard shows back up but is different
+  * may be latched on to by some powerful entity, and he's holding it back for now
+  * goal of getting it out of him and fighting it?
 
 # Names
 
@@ -437,3 +460,15 @@
   * Nutmeg is following along bounding from roof to roof
 * go to the center of town where the bubbled rift is
 * Oakenbeard and Matthew strengthen the bubble
+
+## Session 7
+
+* party looks around for a bit and Sylvester finds a blacksmith shop
+  * takes two daggers and a shield
+* the suit of armor and two swords come to life and attack the party
+* Lapis and Nutmeg trip the armor
+* the fight is fairly easy, just hard to hit since the enemies have high AC
+* after that a Spectator and two Shadows attack
+* party and Oakenbeard are doing well
+* the Spectator is almost dead and throws rubble at Oakenbeard, knocking him into the portal
+* the rest finish the fight and then quickly leave
