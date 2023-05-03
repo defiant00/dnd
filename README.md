@@ -22,12 +22,20 @@
 
 ### Duskspire
 
-* midsized city, butting against a mountain and surrounded by forest
-* outer wall is wood, and open to everyone, with shops and some houses
-* inner wall is stone, with a small moat outside of it
-* significant thieves' guild, sprung up to help acquire materials
-  * main guild hall is in the outer city
-  * there's a nice store that they run in the inner city
+* midsized city, butting up against a mountain range and surrounded by forest
+* mountains mainly to the east, so at dusk the city and backing mountains are lit in brilliant colors
+* two layers of walls
+  * outer wall is stone, not too high, and open to all most of the time
+    * quite a few shops, houses, taverns, etc.
+  * inner wall is much taller stone, with a small moat outside of it, usually open during the day
+* started as a place to study the local leylines
+  * an ancient monarch recognized its value and started the school construction
+    * saw it as reflecting well on his domain
+    * thought having the best magic users would be good
+    * with the direct patronage from the ruler, it also became more directly beholden to him as well
+    * the monarch gained an arcane task force
+      * they now monitor the realm and work with towns and others if a threat is suspected
+    * also rumored to have a heavily fortified magical dungeon
 * large ornate stone building carved into the mountain
   * Arcana Illuminata - to shed light onto the arcane
     * largest arcane magic school
@@ -35,14 +43,23 @@
     * built into the mountain with dwarvish help
     * there's a lot more to it dug into the mountain and down
       * vaults for rare books and dangerous magical items
-* started as a place to study the intersection of energies at its location
-* when the local monarch recognized the value is when they decided to construct the school itself
-  * saw it as reflecting well on his domain
-  * considered having the best most knowledgable magic users a real strength
-  * with the direct patronage from the ruler, it also became more directly beholden to him as well
-  * gained a more pronounced guard presence, both for security and somewhat of an arcane taskforce
-  * they now monitor the realm, reporting back and then working with local towns if a threat is suspected
-  * they are also rumored to have a heavily fortified magical dungeon
+* a significant thieves' guild presence sprung up pretty quickly to help acquire materials and deal with beasts
+  * there is a large guild hall in the outer city
+    * more of a general adventuring guild
+    * they accept and dispense contracts to hunt beasts
+    * there are also some standing contracts for beasts that are considered too dangerous
+    * also a good place to check for simpler magical items or looking for stuff
+  * at this point the guild is considered a very reputable, good part of the city
+  * they also run a number of stores
+    * general store next to the guild hall in the outer city
+    * very nice store in the inner city
+      * have a separate jobs office thing in the inner city as well
+* run by a magic council of five
+  * older female elf - leader (needs a cool title)
+  * human wizard
+  * dragonborn?
+  * tiefling?
+  * oakenbeard - he doesn't like to bother with the council, but they have an empty seat reserved for him both out of respect and to include the dwarves, who helped construct the city
 
 ### Talsworth
 
@@ -250,58 +267,8 @@
 
 ## Talsworth To Do
 
-sylvester shield - after that battle you find yourself overly tired, and realize it's harder than it looks - you're welcome to keep it, but you don't think it's really worth it in battle
-
-about halfway to the campsite for the night, Lapis and Nutmeg leave and promise to keep an eye out for Oakenbeard
-on the second day, Germain takes Anno aside and pulls out a dagger from a dark red bag of holding
-  is a +1 dagger with "truth in shadow" in thieves cant small on the inside of the guard
-    is a recruitment offer from the Duskspire thieves' guild
-when fake Oakenbeard shows up
-  frayed clothes, dirt on him, singed a bit
-  Sylvester immediately notices that there isn't the usual aura around him
-  Matthew runs forward all excited but doesn't know what to do, realizing it would be weird to hug him
-  Germain walks up and clasps arms with him
-    "It's good to have you back"
-    "Aye"
-    Germain makes a little "stand down, not now" type of gesture
-  in conversation, Germain should be "that was quick"
-    oakenbeard, "Was it? That was about 3 days for me"
-
-sylvester leveling up
-  small wisps of darkness
-  extra tufts of fur starting to hint at the second set of ears
-  eyes with an actual bit of a glow
-
-doppelgangers should have some loot
-  oakenbeard
-    x rock bag
-    x a few uncut gems in a pouch - maybe a better potential focus for Reyna
-    x worthless staff
-    x healing potion
-  germain
-    x a couple daggers (at least one should be decent)
-    x leather armor and belt
-    x healing potion
-
-
-
-* the two doppelgangers are following the party, looking for opportunities to switch out with any of them
-
-* get a decent ways away, and when settling in for the evening, doppelganger should show up as Oakenbeard
-* Germain and/or Matthew should be suspicious, but play along initially to get more info
-* doppelganger doesn't have Oakenbeard's presence if the party is perceptive enough
-* when they sleep Germain stays up to keep watch
-* Matthew wakes up the party (quietly) late at night and tells them he's suspicious, and that he's going to test Oakenbeard, because Oakenbeard can't do healing magic
-  * this is a lie in case Oakenbeard or someone else is listening in, real Oakenbeard can heal decently
-  * Matthew thinks this is true (he purposefully altered his own memory), Germain knows it's a lie
-  * this way mind readers wouldn't know the trick
-* the next day after a bit of travel, Matthew trips or something and has a gash that he asks Oakenbeard to heal, which the doppelganger will say that he cannot
-* Germain then immediately gets behind him and kills? him
-  * Matthew is shocked, then remembers over a few seconds as Germain tells him to focus
-  * as this is going on the second doppelganger might try and show up and be all, "that's not me" as Germain
-* after the battle Germain takes both of their heads
-  * Duskspire has bounties out on certain dangerous creatures
-    * Doppelganger - 1200g each
+* Duskspire has bounties out on certain dangerous creatures
+  * Doppelganger - 1200g each
 
 * Oakenbeard is unlikely to return for a while
 * Matthew and Germain are returning to Duskspire, the party is welcome to join them if they want
@@ -321,6 +288,9 @@ doppelgangers should have some loot
   * there are two main types of stakes, those Oakenbeard brings, and those from the centaur herd
   * Eyl'teria oversees the area as well and is on good terms with Oakenbeard, calls him Rommeas
 * Who summoned the Spectator to prevent the rift from being barriered?
+
+* Anno has the recruitment dagger from Germain for the Duskspire thieves' guild
+  * has "Truth in Shadow" on the guard in thieves cant
 
 * potentially long term Oakenbeard shows back up but is different
   * may be latched on to by some powerful entity, and he's holding it back for now
