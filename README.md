@@ -20,7 +20,16 @@
   * west - fields
   * east - livestock
 
+### Cragsrest
+
+* in a mountain range where a couple of the tops were destroyed and fell into the valleys long ago
+* also other large chunks taken out of mountains, and other signs that something cataclysmic happened long ago
+* no one seems to know for sure what happened here, but a number of religions claim that this was the result of their deity defeating some great evil
+* there is a large dwarven city carved into the mountains here
+
 ### Duskspire
+
+THE THIEVES/ADVENTURERS GUILD NEEDS A NAME
 
 * midsized city, butting up against a mountain range and surrounded by forest
 * mountains mainly to the east, so at dusk the city and backing mountains are lit in brilliant colors
@@ -55,11 +64,18 @@
     * very nice store in the inner city
       * have a separate jobs office thing in the inner city as well
 * run by a magic council of five
-  * older female elf - leader (needs a cool title)
-  * human wizard
-  * dragonborn?
-  * tiefling?
-  * oakenbeard - he doesn't like to bother with the council, but they have an empty seat reserved for him both out of respect and to include the dwarves, who helped construct the city
+
+### Felspring
+
+* Falanor and Nurimor, ancient twin elven cities where something happened 400+ years ago and most were wiped out
+  * the cities were both within the woods, with what became the Felspring in the middle
+  * very ornate paths and such connecting the two, and meeting at an ancient, elaborate shrine
+  * they are now full of wraiths, ghosts, specters
+* the woods around the cities are now all dark and corrupted, and full of blights and other creatures
+* there is a small temple area just inside the Felspring that is somehow untouched
+  * full of frogs (twiddle toads?)
+  * has a small dedicated group that take care of the grounds
+  * not entirely sure why it's the only unaffected area
 
 ### Talsworth
 
@@ -72,18 +88,7 @@
 
 ### Other
 
-* frog sanctuary
 * a temple that has a pet turtle
-* Cragsrest
-  * in a mountain range where a couple of the tops were destroyed and fell into the valleys long ago
-  * also other large chunks taken out of mountains, and other signs that something cataclysmic happened long ago
-  * no one seems to know for sure what happened here, but a number of religions claim that this was the result of their deity defeating some great evil
-  * there is a large dwarven city carved into the mountains here
-* a large elven city lost to time, no one knows what happened to it or its inhabitants
-  * all that remains are shadowy specters
-  * the shadows don't (initially at least) attack, but could possibly turn more corporeal and hostile
-  * the woods around the town are dark and overgrown and full of dark energy
-  * surrounded by blights
 
 # Characters
 
@@ -219,6 +224,7 @@
   * skills
     * refraction - all attacks against the party have disadvantage
     * fall - 10' radius gravity pillar, constitution save for half damage
+    * burn - fire damage in a line
   * wants: to help others, to eliminate prejudice (especially towards the arcane)
   * fears: that he may be too dangerous, and that he might hurt others
 * Matthew, the human wizard and Oakenbeard's scribe
@@ -229,6 +235,29 @@
   * dashing, black hair, quiet, wearing dark leathers with daggers on his belt
   * is formally employed by the Arcana Illuminata as an escort
   * helps Oakenbeard by acquiring things for him, and coordinating with the thieves' guild
+* The Council
+  * A mature female elf (leader, needs a cool title)
+    * stately, long white hair, blue and silver robes
+    * 5'9", willowy, 400+
+      * witnessed the glory of Falanor and Nurimor before their fall
+    * wants: 
+    * fears: 
+  * a human wizard
+  * a female dragonborn driven by cynicism and logic
+  * a young agender tiefling, acknowledged for their power from a young age and brought on to the council to guide and watch over them
+  * Oakenbeard is on the council, referred to as Rommeas by most, doesn't like the formality so they keep an empty seat for him both out of respect and to include the dwarves in general
+* Phil the dwarf who runs the guild hall front desk
+  * his real name is either difficult or embarassing, so he just goes by Phil
+  * red hair, long beard in a single braid
+  * 4'3", stocky, around 80
+  * jovial, and wears a colorful vest over dark leathers where he keeps a variety of small things to help him do a bunch of stuff at the front desk
+  * wants: 
+  * fears: 
+* someone who more directly deals with hunting contracts (Phil can do the basics, but he's just going off of what he's told by this person)
+* someone who runs the general store
+* jeweler
+* blacksmith
+* the inner city shopkeeper
 
 ### Talsworth NPCs
 
@@ -272,6 +301,11 @@
 
 * Oakenbeard is unlikely to return for a while
 * Matthew and Germain are returning to Duskspire, the party is welcome to join them if they want
+
+## Felspring To Do
+
+* on the way / barely into the area, during a long rest Reyna should wake up with a wraith just standing there watching her
+* the wraiths in general don't react much, but do seem to occasionally watch Reyna
 
 # Plot Points
 
