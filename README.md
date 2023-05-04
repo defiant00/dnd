@@ -26,6 +26,7 @@
 * also other large chunks taken out of mountains, and other signs that something cataclysmic happened long ago
 * no one seems to know for sure what happened here, but a number of religions claim that this was the result of their deity defeating some great evil
 * there is a large dwarven city carved into the mountains here
+  * should be working with another race (dragonborn?) to build some sort of magical engine at this nexus
 
 ### Duskspire
 
@@ -301,6 +302,10 @@ THE THIEVES/ADVENTURERS GUILD NEEDS A NAME
 
 * Oakenbeard is unlikely to return for a while
 * Matthew and Germain are returning to Duskspire, the party is welcome to join them if they want
+
+## Duskspire To Do
+
+* a small crystal or something appeared out of the nexus location here just a bit before the party arrives, might contain something for Sylvester
 
 ## Felspring To Do
 
