@@ -30,8 +30,6 @@
 
 ### Duskspire
 
-THE THIEVES/ADVENTURERS GUILD NEEDS A NAME
-
 * midsized city, butting up against a mountain range and surrounded by forest
 * mountains mainly to the east, so at dusk the city and backing mountains are lit in brilliant colors
 * two layers of walls
@@ -54,8 +52,8 @@ THE THIEVES/ADVENTURERS GUILD NEEDS A NAME
     * there's a lot more to it dug into the mountain and down
       * vaults for rare books and dangerous magical items
 * a significant thieves' guild presence sprung up pretty quickly to help acquire materials and deal with beasts
+  * at this point they're a main part of the city and well-regarded, just called "the guild"
   * there is a large guild hall in the outer city
-    * more of a general adventuring guild
     * they accept and dispense contracts to hunt beasts
     * there are also some standing contracts for beasts that are considered too dangerous
     * also a good place to check for simpler magical items or looking for stuff
@@ -247,14 +245,19 @@ THE THIEVES/ADVENTURERS GUILD NEEDS A NAME
   * a female dragonborn driven by cynicism and logic
   * a young agender tiefling, acknowledged for their power from a young age and brought on to the council to guide and watch over them
   * Oakenbeard is on the council, referred to as Rommeas by most, doesn't like the formality so they keep an empty seat for him both out of respect and to include the dwarves in general
-* Phil the dwarf who runs the guild hall front desk
-  * his real name is either difficult or embarassing, so he just goes by Phil
-  * red hair, long beard in a single braid
-  * 4'3", stocky, around 80
-  * jovial, and wears a colorful vest over dark leathers where he keeps a variety of small things to help him do a bunch of stuff at the front desk
-  * wants: 
-  * fears: 
-* someone who more directly deals with hunting contracts (Phil can do the basics, but he's just going off of what he's told by this person)
+* The Guild Masters
+  * Germain is the Master of Acquisitions
+  * Phil the Master of Accounting - a dwarf who also runs the guild hall front desk
+    * his real name is either difficult or embarassing, so he just goes by Phil
+    * red hair, long beard in a single braid
+    * 4'3", stocky, around 80
+    * jovial, and wears a colorful vest over dark leathers where he keeps a variety of small things to help him do a bunch of stuff at the front desk
+    * wants: 
+    * fears: 
+  * ? the Master of Contracts
+    * someone who more directly deals with hunting contracts (Phil can do the basics, but he's just going off of what he's told by this person)
+  * ? the Master of Defense
+  * ? the Master of Recruiting
 * someone who runs the general store
 * jeweler
 * blacksmith
@@ -305,7 +308,14 @@ THE THIEVES/ADVENTURERS GUILD NEEDS A NAME
 
 ## Duskspire To Do
 
-* a small crystal or something appeared out of the nexus location here just a bit before the party arrives, might contain something for Sylvester
+* Nil greetings
+  * Anno - shrinks down to their size, greets them, is excited to meet duck
+  * Sylvester - grows to be a few inches shorter than him, greets, and gives him a copper (and refuses to elaborate)
+  * Reyna - greets, looks for a second then plucks the ruby from the air, lets the energy free with a "here you go little one" and returns it
+    * ruby has been changed from the energy and would make an excellent focus
+* Nil changes outfits
+  * loose white shirt, brown leather shorts
+  * loose white blouse, pale yellow knee-length skirt
 
 ## Felspring To Do
 
