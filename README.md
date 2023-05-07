@@ -64,6 +64,14 @@
       * have a separate jobs office thing in the inner city as well
 * run by a magic council of five
 
+### Emberhold
+
+* Dwarvish city at Cragsrest
+
+### The Emerald Depths
+
+* Druid encampment at the bottom of the ocean
+
 ### Felspring
 
 * Falanor and Nurimor, ancient twin elven cities where something happened 400+ years ago and most were wiped out
@@ -75,6 +83,10 @@
   * full of frogs (twiddle toads?)
   * has a small dedicated group that take care of the grounds
   * not entirely sure why it's the only unaffected area
+
+### The Greensway
+
+* The large lush forest with the Felspring in the center
 
 ### Talsworth
 
@@ -233,17 +245,36 @@
 * Germain, the half-elf rogue and Oakenbeard's thieves' guild liason
   * dashing, black hair, quiet, wearing dark leathers with daggers on his belt
   * is formally employed by the Arcana Illuminata as an escort
-  * helps Oakenbeard by acquiring things for him, and coordinating with the thieves' guild
+  * helps Oakenbeard by acquiring things for him, and coordinating with the guild
 * The Council
-  * A mature female elf (leader, needs a cool title)
+  * High Councilwoman Mylaela Vensalor the elven sorcerer
     * stately, long white hair, blue and silver robes
     * 5'9", willowy, 400+
       * witnessed the glory of Falanor and Nurimor before their fall
     * wants: 
     * fears: 
-  * a human wizard
-  * a female dragonborn driven by cynicism and logic
-  * a young agender tiefling, acknowledged for their power from a young age and brought on to the council to guide and watch over them
+  * Councilman Priviar Odell the human wizard
+    * 5'5", heavyset, 40s
+    * short black hair with a sprinkling of gray, close-cropped facial hair
+    * multicolored layered robes
+    * wants: 
+    * fears: 
+  * Councilwoman Valxiris Gerdeshtirith the white dragonborn warlock
+    * 6'3", average build for a dragonborn, late 30s
+    * very cynical and logical
+    * dressed in very practical dark leathers, with only a small ornamental crest on one shoulder
+    * wants: 
+    * fears: 
+  * Councilperson Nil the tiefling
+    * height varies based on company, lithe, 15
+    * agender, androgynous, varies by day in both appearance and dress
+    * pale blue skin, with hands, feet, and horns darker blue
+    * showed up around eight years ago asking to learn
+      * has immense, unfathomable power
+      * seemed genuinely innocent so was trained and kept an eye on, and their place on the council is a continuation of both letting them help and to keep an eye on them
+    * has a childlike wonder to them, but with a remarkable ability to recall information
+    * wants: 
+    * fears: 
   * Oakenbeard is on the council, referred to as Rommeas by most, doesn't like the formality so they keep an empty seat for him both out of respect and to include the dwarves in general
 * The Guild Masters
   * Germain is the Master of Acquisitions
@@ -254,14 +285,62 @@
     * jovial, and wears a colorful vest over dark leathers where he keeps a variety of small things to help him do a bunch of stuff at the front desk
     * wants: 
     * fears: 
-  * ? the Master of Contracts
-    * someone who more directly deals with hunting contracts (Phil can do the basics, but he's just going off of what he's told by this person)
-  * ? the Master of Defense
-  * ? the Master of Recruiting
-* someone who runs the general store
-* jeweler
-* blacksmith
-* the inner city shopkeeper
+  * Brelile Havenbough the Master of Contracts - female halfling ranger
+    * 3'5", thin, 40s
+    * deals directly with hunting contracts
+    * wears well-worn hunting gear and walks with a cane and a limp
+      * she took over this post a few years ago after being injured on a hunt
+    * wants: 
+    * fears: 
+  * Khadeir Grav the Master of Defense - human male
+    * 6'1", stocky, black, 40s
+    * wears gleaming full plate
+    * personally oversees much of the guard training
+    * strict but caring
+    * wants: 
+    * fears: 
+  * Nalsora Frostkith the Master of Recruiting - female dwarven druid + rogue
+    * 3'10", stocky, 110
+    * has very well maintained black leathers with a deep green robe
+    * multiple daggers on one hip, and a whip on the other
+    * eyes glow with her emotions
+    * would rather be overly strict and send people away rather than let in weaklings
+    * wants: 
+    * fears: 
+* Outer shopkeepers
+  * Bergrom Harvrenor the dwarvish blacksmith
+    * spends his time between the shop taking orders and interacting with customers, and the blacksmith
+  * Inilia the female tiefling rogue
+    * 5'8", normal build, early 30s
+    * purple with curved horns
+    * elegant robes hide a couple daggers at her belt
+    * very polite and disarming
+    * wants: 
+    * fears: 
+* Blacksmiths
+  * Bergrom Harvrenor the male dwarvish blacksmith
+    * 4'3", thin for a dwarf but with beefy arms, 60s
+    * wants: 
+    * fears: 
+  * Erlin Harvrenor-Filkadend the male gnomish blacksmith
+    * 3'7", lithe, 50s
+    * does a lot of the fine work
+    * wants: 
+    * fears: 
+* Presphyra Quaraea the female elven shopkeeper - runs the inner city shop
+  * 5'9", typical elvish build, 130
+  * spends most of her time reading, has a few books strewn about during the day
+  * collects knowledge and takes meticulous notes, but only she can read them
+  * is actually social, just enjoys having time daily to read
+  * wants: books, news, knowledge in general
+  * fears: 
+* Quelin Simlon the female gnomish jeweler - inner city shop
+  * 3'1", thin, 180+, they/them
+  * shop has a few things on display
+    * entire back of the counter is small drawers with other items (magically sealed)
+    * there's a back room larger than the front of the store with tall shelves with more drawers
+  * wants: 
+  * fears: 
 
 ### Talsworth NPCs
 
@@ -272,13 +351,6 @@
   * yellow green
 
 # To Do
-
-* for the current battle, after the first is finished, Germain should distract the 3rd then jump out of the way so Oakenbeard can "fall" him (which splits the sky)
-
-* Anno asked the leatherworker to make them something from the bear skin. Will take a few days between other jobs, and can then be picked up and taken to Averitt's.
-* Averitt will have his anvil back (and is excited), and will be happy to practice for a reduced fee (or probably free if it's mentioned that they got the anvil back).
-  * Will take a few more days to attach metal bands to it.
-  * Is eventually an AC + 1 bracer.
 
 * if exploring the crops dying, going upstream finds a split, one way which eventually leads to a lake, and the other continues on as a river
   * the river side eventually is about halfway blocked off with a large pile of animal corpses, broken logs, etc
@@ -308,14 +380,75 @@
 
 ## Duskspire To Do
 
-* Nil greetings
-  * Anno - shrinks down to their size, greets them, is excited to meet duck
-  * Sylvester - grows to be a few inches shorter than him, greets, and gives him a copper (and refuses to elaborate)
-  * Reyna - greets, looks for a second then plucks the ruby from the air, lets the energy free with a "here you go little one" and returns it
-    * ruby has been changed from the energy and would make an excellent focus
-* Nil changes outfits
-  * loose white shirt, brown leather shorts
-  * loose white blouse, pale yellow knee-length skirt
+* 2-3 griffons
+* 3-4 harpies (would hear the song in advance possibly)
+* a group of kobolds that set a trap on the path + kobold commander
+
+* arrive at Duskspire
+  * is a large half-circle up against a mountain, made mostly of stone and wood, buildings painted many colors
+    * cobblestone, somewhat chaotic as it has grown organically, many small clearings where trees and flowers are planted
+    * the Arcana Illuminata is the center of the circle and extends a long way into the mountain
+    * steps are carved into the sides of the mountains and a few layers of buildings are perched and carved into the mountainside
+  * guards immediately approach and Germain tells them the party's with him
+  * Duskspire has magical defenses and runes that detect magic at each of the gates
+* go see the council first
+  * Nil outfit - loose white shirt, brown leather shorts
+  * explain what happened
+  * Matthew should mention needing to strengthen the barrier
+  * Mylaela asks who they are (group name?) and thanks them for their help
+  * during the initial talks, Nil should come introduce themself
+    * Anno - shrinks down to their size, greets them, is excited to meet duck
+    * Sylvester - grows to be a few inches shorter than him, greets, and gives him a copper (and refuses to elaborate)
+    * Reyna - greets, looks for a second then plucks the ruby from the air, lets the energy free with a "there you go little one" and returns it
+      * ruby has been changed from the energy and would make an excellent focus
+  * says that they need to look into things, and will see them again in a day or two
+    * "that is troubling news. we'll need to check in on the other nexus points"
+    * Germain and Matthew are asked to stay behind
+  * party can go explore
+* can stay at the guild hall while here
+* Germain finds them and gives them the 1200g for one of the doppelgangers
+* when meeting the council for the second time
+  * Nil outfit - loose white blouse, pale yellow knee-length skirt
+  * explain that there have been four nexus points up until recently
+    * the one here at Duskspire
+    * the one at Emberhold under Cragsrest that the dwarves and dragonborn are experimenting with
+      * experimenting with tapping its elemental energy to power some amount of steampunk progress
+    * the one in the Felspring within the Greensway
+      * Falanor and Nurimor, once the crown of our civilization, ancient twin elven cities
+        * wiped out 400+ years ago, Mylaela should be somewhat nostalgic
+    * Talsworth
+      * don't worry, they're going to send a group to reinforce the barrier
+      * the shattering seems to have caused ripples throughout the leylines themselves
+      * some have shifted and tangled
+      * fortunately the other three stayed in place, but this lead to a lessening at Talsworth, and the formation of the one at the Emerald Depths
+  * there is now a fifth at the Emerald Depths
+    * deep in the ocean, a growing number of druids have gone there to help setting up the runes necessary to be able to live at that depth
+  * the council has received no ill word from Emberhold or the Emerald Depths, but it would be good to send an expert on rift energy to check those locations and the Felspring
+    * to that end, Nil has volunteered to go
+    * Matthew and Germain have other business to attend to
+      * Matthew wants to do more research and direct the search here
+      * Germain is going to get the word out among his contacts and check some things
+
+* recruitment challenge
+  * there is a dark red wooden door down a set of stairs in the guild hall
+    * basic sleep spell trap if you don't push in a stone on the wall next to the door
+      * Phil will facepalm if you set this one off
+  * small room with a door on the opposite side
+    * light is provided by three candles on a simple wooden table off to the side: lit, shadow, lit
+    * three locks
+      * first and third are locked, middle is trapped and will go off if attempted to unlock it
+      * the dagger goes into the middle
+  * small passageway with a couple trapped tiles
+  * leads into a large circular stone room
+    * drops off about 10' into the room, with a 10' drop into a 3' stream running left to right through a metal grate
+    * the rest appears to be a maze with ~ 10' high walls, and a number of torches along the outer wall
+    * the far passage has metal bars across it vertically, and two great direwolf statues flanking it
+    * there are a few levers hidden throughout that open the bars
+    * also getting judged on if you attack or try to stealth
+    * a number of things (coin, few bits of equipment, etc) strewn in corners, on the ground, and in the river
+    * meet Nalsora here if it starts going badly or if they get all levers then she'll enter from the now unblocked passage
+  * the passageway should be a dead end, but Nalsora just grabs the stone and pulls it aside like a door, forming a staircase
+  * if the players are considered hostile, they should be entangled
 
 ## Felspring To Do
 
@@ -345,11 +478,15 @@
   * may be latched on to by some powerful entity, and he's holding it back for now
   * goal of getting it out of him and fighting it?
 
+* Nil is friend
+* Nil getting kicked out of chaos caused the shattering
+
 # Names
 
 * People
   * Chert
   * Friedbert "Fray"
+  * Urissa
 * Places
   * Abbeasia
   * Alerion
@@ -491,3 +628,14 @@
 * party and Oakenbeard are doing well
 * the Spectator is almost dead and throws rubble at Oakenbeard, knocking him into the portal
 * the rest finish the fight and then quickly leave
+
+## Session 8
+
+* Oakenbeard shows back up
+* Matthew wakes the party up in the middle of the night to explain their test for Oakenbeard
+* Oakenbeard passes? the test the next day and Germain attacks
+* as he does another Germain shows up and claims that's not him
+* Germain slits Oakenbeard's throat and Reyna tries to entangle them all
+* cuts off Oakenbeard's head as he's going for a potion, and he reverts to a doppelganger
+* the party quickly finishes off the fake Germain as well and Germain takes their heads
+* they get back to Brookhaven and rest, planning on setting off for Duskspire tomorrow
