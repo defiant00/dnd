@@ -36,6 +36,7 @@
   * outer wall is stone, not too high, and open to all most of the time
     * quite a few shops, houses, taverns, etc.
   * inner wall is much taller stone, with a small moat outside of it, usually open during the day
+* has temples to Bahamut, Corellon, Erathis, Ioun, Pelor, and Tharizdun
 * started as a place to study the local leylines
   * an ancient monarch recognized its value and started the school construction
     * saw it as reflecting well on his domain
