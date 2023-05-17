@@ -482,6 +482,32 @@
 * Nil is friend
 * Nil getting kicked out of chaos caused the shattering
 
+
+after Emberhold the ettercap infestation should be getting people at Brookhaven sick
+  Nil probably wants to come help (and meet Arthur?)
+    may be advised that tieflings are mistrusted
+      in preparation should walk around Sylvester going "hmm..." and "uh huh..."
+      should then show up the next day as a light tan tabaxi with patterns on the top of their head that suggest horns
+Reyna's ruby enchanted weirdly, they give half the gold back but offer to buy the ruby off of her
+  fire resistance when it doesn't have a charge, but when that works it absorbs half the energy
+    and you must use an action to discharge it or apply it to an attack
+Nil's pocket dimension is a simple set of four rooms in a square
+  one is a sitting room
+  one for food that is magically frozen in time
+    if anyone touches the food they freeze as well
+  one is for their money and treasures
+  any windows should be curtained, but look out into a void
+  if they invite the party in, after a bit the subsonic hum that you didn't previously notice suddenly stops,
+    and in that silence suddenly the whole space lurches and Nil gets everyone out (possibly Merideth or someone she sent)
+eventual confrontation with Merideth
+  silent Akira explosion, that then expands pulling everything into it with a loud rushing wind
+  right before the party is pulled in the wind is deafening, and then darkness and silence
+  "Sylvester" whispered out menacingly
+  everyone make a sanity saving throw
+  Sylvester's normal abilities don't work (like, can't cast at all, not just ineffective against her), but after a moment realizes
+    that he has shifted to his full chaos form (with all new abilities)
+eventual Nil reveal, "Don't you remember me...(Sylvester's true name)"
+
 # Names
 
 * People
