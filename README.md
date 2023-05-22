@@ -112,6 +112,7 @@
   * lived with a friend
     * got caught stealing and the parents took the blame and were taken away
     * was teaching the friend how to be a rogue as well
+  * town is named Moonrest, neighboring town that they would steal from is Archdale
 * Sylvester the tabaxi bard
   * flute = ocarina
   * upon gaining one of their special skills will have some sort of physical change
@@ -144,6 +145,7 @@
   * Likes to people watch, but not great socially
   * Only knows broken elvish
   * her name is an elven child's name, may come up when interacting with other elves
+  * family name is Nastandra
 
 ## NPCs
 
@@ -482,6 +484,12 @@
 * Nil is friend
 * Nil getting kicked out of chaos caused the shattering
 
+
+transportation spell options
+  animal shapes
+  teleport
+  transport via plants
+  wind walk
 
 after Emberhold the ettercap infestation should be getting people at Brookhaven sick
   Nil probably wants to come help (and meet Arthur?)
