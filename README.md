@@ -483,13 +483,27 @@
 
 * Nil is friend
 * Nil getting kicked out of chaos caused the shattering
+  * they currently don't know this
+  * the council wanted to keep an eye on them, and think that they may not be at fault
+    * no bodies were found at Talsworth
+      * Nil saved them all, but most of the conflict is a blur to them, and the council
+      has reinforced that they're misremembering about even being around for the shattering
+    * the council believes that everyone may still be alive, perhaps in another plane?
+    * finding the population of Talsworth is one of the long-term goals
 
-
-transportation spell options
-  animal shapes
-  teleport
-  transport via plants
-  wind walk
+after Emberhold, Nil should teleport the party individually through their pocket dimension to see if
+  one of them is the cause for the prior response
+  offer each member tea/snacks and talk for a minute to see if anything reacts
+    Sylvester last
+  previously had one curtained window and no outer doors, but this time the window is gone and there is
+    a single door that they lead each member through as a more permanent connection to Duskspire
+  when Sylvester is in there, after a few minutes the same attention is felt
+    wisdom saving throw to detect if hostile (it isn't)
+      if Sylvester panics and they leave, their fight-or-flight while in chaos results in them being wreathed in shadows
+        and their third eye opening (perception check from the rest of the party)
+    knocks on the door
+    humanoid wreathed in shadow
+      is revealed as being from Talsworth, the shadow then flowing off of them revealing the person
 
 after Emberhold the ettercap infestation should be getting people at Brookhaven sick
   Nil probably wants to come help (and meet Arthur?)
