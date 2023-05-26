@@ -464,6 +464,7 @@ in the center is a large rock platform anchored to the ceiling with four huge ch
 off around to the right is the research lab
 the nexus point is deep underground
 there's been reports of weird creatures, so they're putting together a group to go investigate
+  they're currently stretched a bit thin between this and some bandits that have been causing trouble
   however, since Nil needs to get to the nexus point the party can wait or escort them themselves
     they can also offer a few helpful magic items if the party is willing to test them
       these should be magic crystal-powered, but have failure states that aren't on their item cards, such as shattering on a 1
