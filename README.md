@@ -453,6 +453,27 @@
   * the passageway should be a dead end, but Nalsora just grabs the stone and pulls it aside like a door, forming a staircase
   * if the players are considered hostile, they should be entangled
 
+## Emberhold To Do
+
+large rock dome, reddish rock with orange crystals embedded that faintly glow
+layered rings, goes from shops/taverns/businesses to residential and storage
+in the center is a large rock platform anchored to the ceiling with four huge chains
+  has a number of trees and a pond on it, along with an open building that is used for formal business
+  when not being used for formal business it's effectively a park
+  above is a large circular opening that lets in sunlight/air/weather, with a few trees and bushes growing out of the side
+off around to the right is the research lab
+the nexus point is deep underground
+there's been reports of weird creatures, so they're putting together a group to go investigate
+  however, since Nil needs to get to the nexus point the party can wait or escort them themselves
+    they can also offer a few helpful magic items if the party is willing to test them
+      these should be magic crystal-powered, but have failure states that aren't on their item cards, such as shattering on a 1
+also, previously Nil discharged some of the batteries, but upon further experimentation they found that they now behave
+  differently/better? so they want Nil to do that to a number more to see if the same thing occurs
+follow the pipes to the nexus point
+they're currently working on an elevator straight to the nexus point, but it's unfinished
+possibly some sort of magically warped cordyceps mushrooms that are taking over some of the cave beasts
+  given a few magic potions specifically to counter magic exposure if they go in on their own
+
 ## Felspring To Do
 
 * on the way / barely into the area, during a long rest Reyna should wake up with a wraith just standing there watching her
@@ -495,8 +516,8 @@ after Emberhold, Nil should teleport the party individually through their pocket
   one of them is the cause for the prior response
   offer each member tea/snacks and talk for a minute to see if anything reacts
     Sylvester last
-  previously had one curtained window and no outer doors, but this time the window is gone and there is
-    a single door that they lead each member through as a more permanent connection to Duskspire
+  previously had one curtained window and no outer doors, but this time there is a single door
+    that they lead each member through as a more permanent connection to Duskspire
   when Sylvester is in there, after a few minutes the same attention is felt
     wisdom saving throw to detect if hostile (it isn't)
       if Sylvester panics and they leave, their fight-or-flight while in chaos results in them being wreathed in shadows
