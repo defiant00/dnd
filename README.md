@@ -383,33 +383,6 @@
 
 ## Duskspire To Do
 
-* 2-3 griffons
-* 3-4 harpies (would hear the song in advance possibly)
-* a group of kobolds that set a trap on the path + kobold commander
-
-* arrive at Duskspire
-  * is a large half-circle up against a mountain, made mostly of stone and wood, buildings painted many colors
-    * cobblestone, somewhat chaotic as it has grown organically, many small clearings where trees and flowers are planted
-    * the Arcana Illuminata is the center of the circle and extends a long way into the mountain
-    * steps are carved into the sides of the mountains and a few layers of buildings are perched and carved into the mountainside
-  * guards immediately approach and Germain tells them the party's with him
-  * Duskspire has magical defenses and runes that detect magic at each of the gates
-* go see the council first
-  * Nil outfit - loose white shirt, brown leather shorts
-  * explain what happened
-  * Matthew should mention needing to strengthen the barrier
-  * Mylaela asks who they are (group name?) and thanks them for their help
-  * during the initial talks, Nil should come introduce themself
-    * Anno - shrinks down to their size, greets them, is excited to meet duck
-    * Sylvester - grows to be a few inches shorter than him, greets, and gives him a copper (and refuses to elaborate)
-    * Reyna - greets, looks for a second then plucks the ruby from the air, lets the energy free with a "there you go little one" and returns it
-      * ruby has been changed from the energy and would make an excellent focus
-  * says that they need to look into things, and will see them again in a day or two
-    * "that is troubling news. we'll need to check in on the other nexus points"
-    * Germain and Matthew are asked to stay behind
-  * party can go explore
-* can stay at the guild hall while here
-* Germain finds them and gives them the 1200g for one of the doppelgangers
 * when meeting the council for the second time
   * Nil outfit - loose white blouse, pale yellow knee-length skirt
   * explain that there have been four nexus points up until recently
@@ -474,6 +447,126 @@ follow the pipes to the nexus point
 they're currently working on an elevator straight to the nexus point, but it's unfinished
 possibly some sort of magically warped cordyceps mushrooms that are taking over some of the cave beasts
   given a few magic potions specifically to counter magic exposure if they go in on their own
+
+approach the gate, guard holds up hand and talks a minute then when recognizing Nil lets them through
+  "sorry, can't be too cautious these days"
+as you enter you see the above
+  there are patterns on the walls, that as you then walk closer you see it's a layer of metal pipes
+after a minute two dragonborn approach
+  dark green older female dragonborn leading the way, **Mishann Galthinshtas**
+    gray robes trimmed in silver
+    silver framed spectacles
+  copper young male dragonborn, **Narvull Delrasondur**
+    simple blue robe thrown over a simple shirt and shorts
+    has a belt with a number of pouches where he keeps his tools
+Narvull immediately comes up and gushes a bit, assuming the party is the council at the start
+  "Counciperson Nil, High Councilwoman Mylaela, ..."
+  Mishann corrects him after a moment and apologizes for the confusion
+they talk with Nil about the purpose of the visit, and then ask if they can have their help before
+  you embark towards the nexus point
+walk to the lab
+Mishann explains that the batteries Nil expelled hold less charge, but are much more stable
+  the natural crystals shatter when overloaded or too quickly discharged
+go into one of the main lab rooms, with a number of others in it (number of dragonborn and 2 dwarves)
+bring out a number of crystals and ask Nil to discharge them
+  Nil should be able to for those with planar energy, and apologize for not being able to for the others
+    if they're either uncharged or charged with normal magic
+they thank everyone, and say they won't take up more of your time
+explain that the party can ride the elevator partway down, but construction has stalled due to the weird
+  occurrences having people spooked - some sort of magically reactive fungus?
+as they're getting ready to go, Narvull says he's been working on some things if they'd like to see,
+  and maybe try it out if they're willing? you can see Mishann humor him with a bit of a tired smile
+the dwarf **Harram Lanhegan** comes with you all
+led to a smaller room that is 90% workshop with a small, neatly made, cot in a corner
+everything is precisely in its place, crystal shards organized by shape and size, tools neatly placed and labeled
+explains that he is given extra bits to experiment with, working on making smaller, portable devices
+  so even those without magic can use some in a convenient, portable way that is much easier to create than
+  a traditional enchantment
+as he's taking out a number of items, Harram explains that he's been helping. the others have doubts, but he
+  thinks Narvull is on to something
+Narvull, "I have a number of things I've been working on. You're welcome to try them out on your trip to the
+  nexus point, just try to bring them back and let me know how they do?"
+as you're examining some of the items, Harram laments the craftsmanship (which is fine) and says they've been
+  trying to get the blacksmiths from Duskspire to join them. Bergrom's a fine blacksmith, and have you seen
+  the detail work that his husband does? This would be right up his alley.
+  But unfortunately I haven't been able to convince them yet.
+party then leaves after choosing what they'd like to try out
+  can ride the elevator or go from the top
+going through, the caves are rough, with pipes along the sides
+  mostly the same reddish rock with various layers/stripes of reds to grays
+  orange/red crystals with a faint glow
+  occasional lava flows
+past where the elevator goes there starts to be magical mushrooms and lichen/growth along some of the walls/floor/etc
+  noticeably cooler around these, as they seem to feed off of the heat
+  constitution saving throw for spores
+items
+  gas masks
+  charging orb (absorbs heat, can charge other crystals in proximity)
+  razor dagger (vibrates)
+  flaming arrow attachment
+  kinetic gloves
+  2x light stone
+  flow cloak
+  belt of returning
+
+shriekers
+  gas spore
+  violet fungus
+
+ankheg
+behir
+bulette
+darkmantle
+grick
+hook horror
+kobold
+friendly myconids
+piercer + roper
+
+Reldis and Twil from the northern colony
+  Reldis is cloaked and hooded, with a staff
+  Twil is large (mid-sized dog?) and has a number of smaller glowing mushrooms on it as well
+  if having difficulty with the Hooked Horrors, they should show up with a wave of spores
+  after walking a while come across all surfaces coated with blue-green slightly glowing mushrooms
+  Reldis calls out to them, "hey friends, this way"
+  "did you see any of the mushrooms on the way in?"
+  "I should take care of those...fortunately they don't move very fast on their own...ha ha...sorry, mushroom joke"
+  spores from Twil + wind cantrip to move them along and cause them to wither
+  shows them the behir, explains they've been tracking it
+    we must take care of it before it's so far gone that it ignores the other mushrooms
+
+skills
+  heal / cure the infection (dark grey lichen)
+  spore gust
+
+
+**Kairn** the dwarven captain of the guard, with a runic hammer and full plate armor watches the party
+when they wake up and have breakfast, then approaches them
+"So, I understand we have a creature to slay. Will you be joining us?"
+if the party agrees, go to the central area and meet with Mishann, Reldis, Narvull
+  when should we go?
+  how many people?
+  do you need to go shopping first?
+  give healing necklaces to the party
+    has 3 charges, as a bonus action can use 1+ charges to heal 1d4 + 2 per charge
+names: Chert, Urissa, Rainth, Elcor
+
+large cavern clawed out of the rock
+small passageway and room before it stoneshaped into the rock, and then a tunnel curving around, that comes
+  out 15 feet above into a small stone ledge jutting out
+there are then other tunnels that connect to 3 more small ledges, and there are some vine bridges between a few
+one set of vine bridges is broken
+going to the first ledge, there is a large tunnel torn through the small one, making it difficult to get there
+the large tunnel is 20-30 feet long angling downward
+
+during battle, Nil rolls per attack as long as they feel safe, 15+ saves against an attack on an ally, but they
+  have to make a dc10 constitution saving throw or they get sick (disadvantage on next attack)
+
+infection
+  3 - dc10 constitution save, on fail you lose your action
+  6 - above + take 1d4 damage at the start of your turn
+  9 - above + take 1d8 damage at the start of your turn
+
 
 ## Felspring To Do
 
@@ -551,6 +644,12 @@ eventual confrontation with Merideth
   Sylvester's normal abilities don't work (like, can't cast at all, not just ineffective against her), but after a moment realizes
     that he has shifted to his full chaos form (with all new abilities)
 eventual Nil reveal, "Don't you remember me...(Sylvester's true name)"
+  if Nil hasn't revealed before the confrontation with Meredith above, when Sylvester is finding all
+    his skills don't work, suddenly should be teleported to Nil's room for just a second and Nil
+    should reveal themself as friend, and give Sylvester back some of the power that originally formed
+    them, "here, I've cultivated this power that you used to form me..." and they then look drained but
+    okay, resulting in Sylvester getting the whole new set of skills for the fight
+      Sylvester should possibly get all the powers that Nil's demonstrated throughout the campaign, but stronger?
 
 # Names
 
@@ -710,3 +809,50 @@ eventual Nil reveal, "Don't you remember me...(Sylvester's true name)"
 * cuts off Oakenbeard's head as he's going for a potion, and he reverts to a doppelganger
 * the party quickly finishes off the fake Germain as well and Germain takes their heads
 * they get back to Brookhaven and rest, planning on setting off for Duskspire tomorrow
+
+## Session 9
+
+* on the way to Duskspire the party spots some traps and gets attacked by a group of kobolds
+* when nearing Duskspire they also get attacked by a griffon who almost flies off with Anno
+* arrive at Duskspire and go see the council
+* meet Nil, who greets Anno and duck, gives Sylvester a copper, and lets the planar energy out of Reyna's ruby with a "there you go little one"
+* told of the other nexus points
+* party goes and explores Duskspire while the council looks into things
+* party stays at the guild hall
+* Germain gives them 1200g for their help with the doppelgangers
+* party does some shopping and prep for the next couple days
+
+## Session 10
+
+* meets back with the council, and Nil says they're going to go check on the other nexus points and invites the party along
+* Nil then joins them around town for the day, going shopping, Reyna turns into a horse and rides around
+* Nil and Sylvester play some music together
+* they decide to go to a local tavern that Nil recommends
+
+## Session 11
+
+* get food with Nil, Nil offers to show them how their pocket dimension works
+* after a few minutes, and the party looking out the space's window into the void, something feels different
+* leave the space, Nil is concerned
+* the next day finish up shopping, Reyna turns into a horse and hides in a shop
+* party meets back with Nil and flies to Emberhold as mist
+
+## Session 12
+
+* arrive at Emberhold and meet Mishann, Narvull, and Harram
+* agree to escort Nil down to the nexus point
+* Narvull offers some gadgets to test
+* travel down using the elevator and then walking, noticing lichen and mushrooms along the walls and pipes
+* Sylvester takes a mushroom and puts it in his pack
+* party gets attacked by two piercers, and then a hook horror
+
+## Session 13
+
+* party defeats the hook horrors and takes a hook
+* party meets Reldis and Twil, almost running away from the sound of his staff but take long enough talking about it that he shows up
+* everyone has to pet Twil
+* Reldis clears the infection from everyone, having them breathe in glowing spores that causes dark lichen to grow on your arms and flake off
+* walk back to the elevator clearing the mushrooms by emitting glowing spores and gusting them forward
+* get back and Reldis lets everyone know that there's an infected Behir down there
+* Narvull asks about the gadgets, and takes them back to charge them
+* the party goes to rest for the night at the barracks on the 2nd floor
