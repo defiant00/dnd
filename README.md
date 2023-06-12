@@ -558,6 +558,8 @@ there are then other tunnels that connect to 3 more small ledges, and there are 
 one set of vine bridges is broken
 going to the first ledge, there is a large tunnel torn through the small one, making it difficult to get there
 the large tunnel is 20-30 feet long angling downward
+there are a number of mushrooms spread throughout, and a number of mounds of dead beasts coated in mushrooms
+  some of the mushrooms will set off like a trap, either emitting spores or shrieking
 
 during battle, Nil rolls per attack as long as they feel safe, 15+ saves against an attack on an ally, but they
   have to make a dc10 constitution saving throw or they get sick (disadvantage on next attack)
@@ -844,6 +846,9 @@ eventual Nil reveal, "Don't you remember me...(Sylvester's true name)"
 * Narvull offers some gadgets to test
 * travel down using the elevator and then walking, noticing lichen and mushrooms along the walls and pipes
 * Sylvester takes a mushroom and puts it in his pack
+* before going into combat, Nil takes each party member into their pocket dimension and has tea for a few minutes to see if any of them provoke the prior reaction
+  * Sylvester causes the reaction and then there's a knock at the door
+  * Sylvester and Nil leave, and Reyna notices that Sylvester has a hidden third eye
 * party gets attacked by two piercers, and then a hook horror
 
 ## Session 13
