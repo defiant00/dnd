@@ -95,7 +95,9 @@
   * The Shattering - 7-8 years ago
 * is mostly abandoned
 * some views into the past, some to other planes
-* possibly where Neon showed up
+* where Nil showed up
+  * the residents are trapped in a shadow version of Talsworth on another plane
+    * they can detect when Sylvester is in Nil's pocket dimension and try to contact them
 * good place for an eventual showdown
 
 ### Other
@@ -109,9 +111,9 @@
 * Anno Quickdream the halfling rogue
   * basically Robin Hood
   * never knew their parents
-  * lived with a friend
-    * got caught stealing and the parents took the blame and were taken away
-    * was teaching the friend how to be a rogue as well
+  * lived with a friend - Linera Freewind
+    * got caught stealing and the parents took the blame and were taken away - Vinlor and Yessira Freewind
+    * was teaching Linera how to be a rogue as well
   * town is named Moonrest, neighboring town that they would steal from is Archdale
 * Sylvester the tabaxi bard
   * flute = ocarina
@@ -361,6 +363,11 @@
   * getting rid of the corpses should help
   * a swarm of Ettercaps are responsible
 
+ettercaps working symbiotically with an elder carrion crawler, and tending to the grubs
+a number of web-based traps
+  some silence the person
+  some pull them up into the trees or far away
+
 * Rowan can suggest that the party can help him patrol the forest
   * he's been meaning to do so for a while, but can't due to a lack of manpower
 * job board
@@ -382,6 +389,8 @@
 * Matthew and Germain are returning to Duskspire, the party is welcome to join them if they want
 
 ## Duskspire To Do
+
+* Sylvester has commissioned a bag of colding, should be ready in a week (holds 200 lbs)
 
 * when meeting the council for the second time
   * Nil outfit - loose white blouse, pale yellow knee-length skirt
@@ -569,6 +578,15 @@ infection
   6 - above + take 1d4 damage at the start of your turn
   9 - above + take 1d8 damage at the start of your turn
 
+
+more spores and mushrooms the farther in you go
+more pipes joining in along the ceiling
+a broken pipe venting steam - a chunk of metal that was torn off, and a small pool along the other side
+  some mushroom traps - duck should get nervous around them
+at the end is a metal door and a metal automaton
+a few corpses of creatures (hook horror, a couple other)
+if open the door before, then they will lurch forward and try and get to the nexus point
+  they fuse together into a weird flesh/mushroom abomination
 
 ## Felspring To Do
 
@@ -861,3 +879,53 @@ eventual Nil reveal, "Don't you remember me...(Sylvester's true name)"
 * get back and Reldis lets everyone know that there's an infected Behir down there
 * Narvull asks about the gadgets, and takes them back to charge them
 * the party goes to rest for the night at the barracks on the 2nd floor
+
+## Session 14
+
+* the party, Nil, Reldis + Twil, and Kairn + 3 other guards decide to go hunt the behir
+* Narvull brings the charged gadgets
+* the party is loaned healing necklaces
+* the group surrounds the behir and takes it out
+* the ground starts shaking so everyone retreats for a minute in Nil's pocket dimension
+* peek out and see a bulette chomping on the behir
+* Nil pops people out to their desired positions and the group gets a surprise round
+
+## Session 15
+
+* the group defeats the bulette with some excellent spell use from Sylvester
+* the bulette tries to attack Sylvester from his perch, but he backs away into the tunnels
+* Reyna as a bear runs up the cavern wall and swipes at it
+* Sylvester terrorizes it to death and it falls off and on Reyna
+* the group takes a long rest in the room the behir has carved out
+* Anno helps cook
+  * Sylvester offers a piece of griffon meat
+    * the first one is bland
+    * Anno gets 'inspiration' from Sylvester intimidating them to not mess it up again
+    * the second one is very good
+* they then make their way to the nexus point, clearing out the mushrooms as they go
+* get to the nexus point room, with a closed door and guarded by an automaton
+  * there are a number of monster corpses outside covered with mushrooms
+  * the group clears the mushrooms and goes inside
+* Nil begins meditating at the nexus point
+* Anno begins teaching Skectral thieves' cant
+
+## Session 16
+
+* the group makes their way back
+* reports success, returns items, checks the shops
+* has a party with the guards in the barracks
+* Sylvester gets drunk and throws up, then gets angry at the ale and knocks the glass on the floor
+* the next morning they travel through Nil's pocket dimension back to Duskspire
+* on their way to report to the council see Rowan, Averitt, Derek, and another female guard from Brookhaven
+  * more crops are dying and people are getting sick, so they're there to ask for help
+  * party agrees to help
+  * they're going to rest for the evening then head back
+* report to the council
+* council gives the party a purifying orb to use to help Brookhaven
+* Nil asks if they can come with them, and then maybe go to the next nexus point from there?
+* Sylvester commissions a bag of colding, will be ready in about a week
+* have dinner with Nil, who's watching Sylvester intently and asks if there are any tieflings in Brookhaven
+  * Sylvester reads Nil's surface thoughts, which are general observations about him and concern about being a tiefling
+* the next morning, meet up in the inner city center
+* Nil surprises the party as a light tan tabaxi
+* the whole group mists to Brookhaven over most of the day, it is now evening
