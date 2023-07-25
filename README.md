@@ -357,16 +357,30 @@
 
 # To Do
 
-* if exploring the crops dying, going upstream finds a split, one way which eventually leads to a lake, and the other continues on as a river
-  * the river side eventually is about halfway blocked off with a large pile of animal corpses, broken logs, etc
-  * lots of spider webs and such, also wrapped around the debris in the river
-  * getting rid of the corpses should help
-  * a swarm of Ettercaps are responsible
+Archdale
 
-ettercaps working symbiotically with an elder carrion crawler, and tending to the grubs
-a number of web-based traps
-  some silence the person
-  some pull them up into the trees or far away
+As you approach the first thing you notice is the noise, starting off quietly but continuing to increase as you get closer, resolving itself into what sounds like a festival, with a loud mix of instruments and voices, and an undercurrent of a consistent drum beat.
+
+As you approach you see an about twelve foot high stone wall, and what looks to be 4-5 feet thick. It is, however, rather worn down and patched in places, and there doesn't appear to be any gate or anyone atop it, just a single guard looking rather bored leaning up against the side of the entrance. She seems to be mostly paying attention to inside the city, and you can see her tapping her foot to the beat.
+
+The city is having an annual festival where drummers go throughout the city (some on foot, some on human-carried floats) and the rest then join in: singing, dancing, playing instruments. The shops and taverns have booths set up outside of their establishments or on the main festival path.
+
+Colorful banners and streamers have been put up throughout and blow in the warm breeze.
+
+The procession starts and ends in front of the school, presided over by the current (second) headmaster, an old gnome named **Mermorn Bolwon** who may seem old and absent-minded, but when conducting the group at the start seems energetic and capable.
+
+The school itself is elaborate and ornate stone and metal, looking a little old and worn although it is clear that this is where most of the upkeep has gone. For the festival there are many colorful banners draped from windows, and streamers spread between. The surrounding town is more of a college town. Simple wooden and stone buildings, most a single story, and relatively simple things like taverns, general stores, and cheap inns. There are also a number of musical instrument and supply stores, some of which are notably more upscale.
+
+The prison is a low stone building near the front gate. It is a single hallway with barred cells on both sides. You enter into the guard room that has a wooden desk and a couple chairs. Due to disuse, the far end has been given large double doors and about half of the cells have been converted into stables.
+
+Prisoners here are those who have specific debts that they can pay off by working for the town. Vinlor and Yessira Freewind stand accused of stealing food, a number of chickens (5+), a couple goats, and a pig. A prisoner is valued at 20g a month. Vinlor and Yessira were to be imprisoned for 3 months to pay off the debt, but were broken out(?) after less than 2.
+
+[guard] will attempt to line his pockets by quoting a higher amount. Their debt was 120g, but even with them having worked off half of it, he will say that to clear what is owed will be 160g + 50g for disrespecting the law
+
+
+Moonrest
+
+
 
 * Rowan can suggest that the party can help him patrol the forest
   * he's been meaning to do so for a while, but can't due to a lack of manpower
@@ -416,6 +430,7 @@ a number of web-based traps
 
 * recruitment challenge
   * there is a dark red wooden door down a set of stairs in the guild hall
+    * "Enter in Shadow" is written above it in thieves cant
     * basic sleep spell trap if you don't push in a stone on the wall next to the door
       * Phil will facepalm if you set this one off
   * small room with a door on the opposite side
@@ -929,3 +944,43 @@ eventual Nil reveal, "Don't you remember me...(Sylvester's true name)"
 * the next morning, meet up in the inner city center
 * Nil surprises the party as a light tan tabaxi
 * the whole group mists to Brookhaven over most of the day, it is now evening
+
+## Session 17
+
+* the group checks in with Floria and confirms the situation
+* Reyna cleans some water
+* the town installs the purification crystal under the bridge to the west of the town
+* party stays at The Soggy Bottom and plans to go find what's causing this the next morning
+* party heads into the woods following the stream
+  * they were hoping to have help from some guards, but Rowan says more are sick so they don't really have anyone extra to spare
+* encounter an ettercap, entangle it and try and talk to it before eventually killing it
+* the party runs into a couple web-based traps while going along
+* encounter some carrion crawler grubs eating some dead animals and leave before getting into any real fight
+* fight and kill two more ettercaps, and the grubs eventually make their way over and attack the party
+  * the grubs are very weak
+
+## Session 18
+
+* party is joined by a female human guard (rogue) named Emerald
+* Sylvester gets caught in a web trap and pulled upside down up into the air
+* party tracks the polluted water upstream until they encounter a large mass of debris and animal bodies in the stream next to a large burrow dug into the earth
+* party gets attacked by two ettercaps, and a minute later a large carrion crawler emerges from the burrow
+* party + Nil + Emerald defeat the enemies and Reyna uses a flaming sphere to burn and break up the debris
+* they successfully return back to Brookhaven
+* report their success, and are told that there's no real reward since the town's money is going toward restocking their food supplies
+  * are let know by Elluin and Floria that a wanted poster came in from Archdale, accusing Anno of freeing Vinlor and Yessira Freewind
+* retire for the night to The Soggy Bottom, try a little ettercap meat which is unpleasant
+  * Sylvester: This reminds me of my first time trying dirt.
+* party has reached level 4
+
+## Session 19
+
+* party notices a bit of shadowy mist curling off of Sylvester, and his eyes are glowing in a more pronounced way
+  * Reyna asks about it, Sylvester lies that it's a normal bard/tabaxi thing, but she sees through it
+* after checking in on Floria, who reassured Reyna that now that the water is clear they should be fine, the party warps back to Duskspire through Nil's pocket dimension
+* Anno goes to the guild to look for Germain, according to Phil he's been off on his own business for the past few days
+* Sylvester goes to the library to research other planes and relations to Talsworth
+* Reyna talks to Nil about Sylvester (mainly concerned if he's a threat to the party or possessed or anything) and then joins him in the library, but has difficulty finding anything
+* during this time Anno attempts the recruitment challenge but is knocked out by the first door, and Phil face palms
+* everyone meets up for dinner
+* Sylvester asks Reyna what she wanted to talk with Nil about, and then reads her surface thoughts
