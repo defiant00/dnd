@@ -375,8 +375,40 @@ The prison is a low stone building near the front gate. It is a single hallway w
 
 Prisoners here are those who have specific debts that they can pay off by working for the town. Vinlor and Yessira Freewind stand accused of stealing food, a number of chickens (5+), a couple goats, and a pig. A prisoner is valued at 20g a month. Vinlor and Yessira were to be imprisoned for 3 months to pay off the debt, but were broken out(?) after less than 2.
 
-[guard] will attempt to line his pockets by quoting a higher amount. Their debt was 120g, but even with them having worked off half of it, he will say that to clear what is owed will be 160g + 50g for disrespecting the law
+**Orne** will attempt to line his pockets by quoting a higher amount. Their debt was 120g, but even with them having worked off half of it, he will say that to clear what is owed will be 160g + 50g for disrespecting the law
 
+After talking for a minute another guard should report in, at which point Orne should be all, "Actually, how about this. You all look capable enough, and I could use a bit of help. How about 100g and you help me with my 'problem'. See, with this drum festival, students like to get in a bit of mischief. There's been talks of something big - some sort of prank on the headmaster himself. Now we're a bit busy here, what with the festival and all, so what would you lot say to staking out his office for us, keeping any eye on things tonight?"
+
+Human male        Abul
+Halfling male     Halamin
+Halfling female   Safira
+Tabaxi female     Riddle
+Gnome female      Tifalys
+
+Small group walks by, talking excitedly about the festival.
+Group of 5 walks by, talking and joking and playing music and casually looking for anyone near the office.
+Same group of 5 walk by again later, instruments out, playing (quite well) and inviting others to join them.
+  Should invite the party to join them.
+A 'whump' sound from around the corner, and there's a glowing line on the wall leading to storage room next to the office.
+That room is locked, and the door is around the corner as well.
+Also try and have someone act tipsy and invite the group to party.
+Cause small noises or other distractions.
+If they get just a moment, cause an arcane glyph to appear on the door's lock (doesn't actually mean anything)
+Last resort, cause whispers and then all the lights go out nearby.
+
+If they manage to get in, there will be separate shenanigans to attempt to get back out without being seen. Although less immediately concerned since at that point they've played their prank.
+
+Attempt:
+  stealthy (elven cloak), try and lockpick the door
+  flip all the books upside down
+  magically color things
+  attach the desk to the ceiling
+
+office:
+  nice big wooden desk
+  glass and wood display case with instruments
+    a very fine lute, with some sort of enchantment
+  layered rugs, and a number of thick tapestries along the walls in specific symmetrical patters for sound deadening
 
 Moonrest
 
@@ -449,6 +481,17 @@ Moonrest
     * meet Nalsora here if it starts going badly or if they get all levers then she'll enter from the now unblocked passage
   * the passageway should be a dead end, but Nalsora just grabs the stone and pulls it aside like a door, forming a staircase
   * if the players are considered hostile, they should be entangled
+
+Congratulations on making your way here, although I see that you perhaps have encountered difficulties along the way. So I ask you, what have you learned from this?
+  * after they answer, if acceptable then she throws a dagger sneakily, and Anno has to roll to see it / react to it.
+
+Three main Talsworth families: Whiteshard, Jao, Siralis
+Messenger from Talsworth - Jorah Siralis
+Mayor - Sorfal Duronor
+
+animals going missing at a nearby farm
+need escorts to go to Archdale
+  Fragrant (Tree) the tabaxi
 
 ## Emberhold To Do
 
